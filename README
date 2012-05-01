@@ -4,4 +4,4 @@ a simple web tool integerates address book and memorandum.
 2. python Karrigell.py -P 8080
 3. open Browser and visit http://localhost:8080/test/infoList/index.ks/index.
 
-
+all source code locates at Karrigell-2.3.5/webapps/test/infoList.
