@@ -1,0 +1,44 @@
+(S'nom'
+p1
+tp2
+.I5
+.(dp1
+I0
+(dp2
+S'nom'
+p3
+S'Sonio\xf9 (Chansons)'
+p4
+sS'__id__'
+p5
+I0
+ssI1
+(dp6
+g3
+S'Gwerzio\xf9 (complaintes, ballades)'
+p7
+sg5
+I1
+ssI2
+(dp8
+g3
+S'Sonio\xf9 evit bugale (Chansons pour enfants)'
+p9
+sg5
+I2
+ssI3
+(dp10
+g3
+S'Kantiko\xf9 (Cantiques)'
+p11
+sg5
+I3
+ssI4
+(dp12
+g3
+S'Kan-ha-diskan'
+p13
+sg5
+I4
+ss.(dp1
+.

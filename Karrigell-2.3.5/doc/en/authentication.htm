@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>Authentication
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="STYLESHEET" href="../doc.css">
+</head>
+<BODY bgcolor="#71B559" LINK="#FFFFCC" VLINK="#FFFFCC" LEFTMARGIN="0" TOPMARGIN="0">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td class="side">&nbsp;</td>
+<td>
+    <table class="header" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <a href="../../index.html"><img src="../images/karrigell_skeudenn.png" border="0"></a>
+        </td>
+        <td class="headertext">
+            <td class="headertext1">
+                <center>
+                <font size="+2"><b>Karrigell Documentation</b></font>
+                <p>
+                <table width="70%" cellpadding="0" cellspacing="0"><tr>
+                <td class="info" align="left"><strong>Version 2.3.5</strong></td>
+                <td class="info" align="right">19 05 07</td>
+                </tr></table>
+                </center>
+            </td>
+            <td class="headertext2">
+                <a class="header" href="../fr/authentication.htm">Fran&ccedil;ais</a>
+            </td>
+        </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr><td class="menu" valign="top"><a class="menu" href="front.htm">
+1. Introduction
+</a><br><a class="menu" href="install.htm">
+2. Installing Karrigell
+</a><br><a class="menu" href="webserveroptions.htm">
+3. The Web server
+</a><br><a class="menu" href="configuration.htm">
+4. Configuration options
+</a><br><a class="menu" href="apache.htm">
+5. Working with Apache, LightTPD or Xitami
+</a><br><a class="menu" href="programming.htm">
+6. Programming
+</a><br><a class="menu" href="debugging.htm">
+7. Debugging
+</a><br><a class="menu" href="pythonscripts.htm">
+8. Python scripts
+</a><br><a class="menu" href="cgi.htm">
+9. CGI scripts
+</a><br><a class="menu" href="karrigellservices.htm">
+10. Karrigell Services
+</a><br><a class="menu" href="pythoninsidehtml.htm">
+11. Python Inside HTML
+</a><br><a class="menu" href="htmlinsidepython.htm">
+12. HTML Inside Python
+</a><br><a class="menu" href="htmltags.htm">
+13. HTMLTags - generate HTML in Python
+</a><br><a class="menu" href="include.htm">
+14. Including documents
+</a><br><a class="menu" href="sessions.htm">
+15. Sessions
+</a><br><span class="sel">
+16. Authentication
+</span><br><span class="sel">
+&nbsp;&nbsp;<small>16.1 Basic HTTP authentication</small></span><br><span class="sel">
+&nbsp;&nbsp;<small>16.2 The RestrictToAdmin() function</small></span><br><a class="menu" href="internationalization.htm">
+17. Translation and Unicode
+</a><br><a class="menu" href="namespace.htm">
+18. Summary of built-in names</a><br></td>
+<td class="content">
+<h1>16. Authentication</h1>
+<h2>16.1 Basic HTTP authentication</h2>
+<p>Karrigell supports basic HTTP authentication, a way to protect access to some files by requesting
+a user identifier and a password. The server receives user input and stores it in the global
+variables <code>AUTH_USER</code> and <code>AUTH_PASSWORD</code>. If the user enters a couple which
+is allowed by the server then the page is sent back ; if the couple is not allowed then the user is
+requested a new couple ; if the user cancels his request an error message is sent to him
+<p>In Karrigell, authentication is handled through the <code>Authentication</code> function ; call
+<code>Authentication(<var>testFunction</var><big>[,</big><var>realm</var><big>,</big><var>
+errorMessage</var><big>]</big>)</code> where <var>testFunction</var> is a user-defined function
+taking no argument, which returns true if the authentication test succeeds (depending on the values
+of <code>AUTH_USER</code> and <code>AUTH_PASSWORD</code>) and false otherwise, <var>realm</var> is a
+string with the name of the authentication domain (the one that will appear on the popup window) and
+<var>errorMessage</var> is a string displayed on the browser if the user cancels his authentication
+request. Both <var>realm</var> and <var>errorMessage</var> have default values
+<p>Here is an example with a very simple test function :
+<p>
+<dl><dd><pre class="verbatim">
+&lt;%
+def authTest():
+    return (AUTH_USER=="proust" and AUTH_PASSWORD=="marcel")
+Authentication(authTest,"Authentication test",\
+    "Sorry, you are not allowed to access this page")
+%&gt;
+Welcome, authenticated user !
+</pre></dl>
+<p>
+<p>With this test function, if a visitor finds a way to read the source code, he will easily
+discover a valid login/password couple. A better solution is to use md5 : it is a function which
+takes a string as argument, and returns a 16-bytes "digest". The digest is guaranteed to be
+different for two different strings, and it is impossible to find the string if you only know the
+digest
+<br>A good method is to compute the md5 digests of user and password and store them in a file. The
+authentication test will read this file, compute the digests of AUTH_USER and AUTH_PASSWORD, and
+return true if the digests match
+<p>
+<dl><dd><pre class="verbatim">
+&lt;%
+import md5
+digests=open("digest.ini","rb").read()
+userDigest=digests[:16]
+passwordDigest=digests[16:]
+def authTest():
+    return (md5.new(AUTH_USER).digest()==userDigest and \
+        md5.new(AUTH_PASSWORD).digest()==passwordDigest)
+Authentication(authTest,"Authentication test",\
+    "Sorry, you are not allowed to access this page")
+%&gt;
+Welcome, authenticated user !
+</pre></dl>
+<p>See the <code>k_password.py</code> script, in the <CODE>admin</CODE> directory, which 
+generates a file with the md5 digests of administrator's login and password
+<h2>16.2 The <CODE>RestrictToAdmin()</CODE> function</h2>
+A shortcut is provided to restrict access to a page to the administrator whose login and password
+have been defined by the <CODE>k_password.py</CODE> script : a function called <CODE>RestrictToAdmin()</CODE>
+Put it at the beginning of your script, like this :
+<p>
+<dl><dd><pre class="verbatim">
+RestrictTo Admin()
+print "Hello !"
+</pre></dl>
+The browser will ask for the admin's information before showing the page
+By default, this information is searched in the file admin.ini in the folder admin. If you
+want to use another file you can specify it as argument to the function <CODE>RestrictToAdmin()</CODE> :
+<p>
+<dl><dd><pre class="verbatim">
+RestrictTo Admin(admin_file_name)
+print "Hello !"
+</pre></dl>
+The format of this file must be the same as the one generated by k_password.py
+<p>
+</html>
+</td>
+</tr></table>

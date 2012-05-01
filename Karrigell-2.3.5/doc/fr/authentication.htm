@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>Authentification
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="STYLESHEET" href="../doc.css">
+</head>
+<BODY bgcolor="#71B559" LINK="#FFFFCC" VLINK="#FFFFCC" LEFTMARGIN="0" TOPMARGIN="0">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td class="side">&nbsp;</td>
+<td>
+    <table class="header" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <a href="../../index.html"><img src="../images/karrigell_skeudenn.png" border="0"></a>
+        </td>
+        <td class="headertext">
+            <td class="headertext1">
+                <center>
+                <font size="+2"><b>Karrigell Documentation</b></font>
+                <p>
+                <table width="70%" cellpadding="0" cellspacing="0"><tr>
+                <td class="info" align="left"><strong>Version 2.3.5</strong></td>
+                <td class="info" align="right">19 05 07</td>
+                </tr></table>
+                </center>
+            </td>
+            <td class="headertext2">
+                <a class="header" href="../en/authentication.htm">English</a>
+            </td>
+        </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr><td class="menu" valign="top"><a class="menu" href="front.htm">
+1. Introduction
+</a><br><a class="menu" href="install.htm">
+2. Installation
+</a><br><a class="menu" href="webserveroptions.htm">
+3. Le serveur Web
+</a><br><a class="menu" href="configuration.htm">
+4. Options de configuration
+</a><br><a class="menu" href="apache.htm">
+5. Travailler avec Apache, LightTPD ou Xitami
+</a><br><a class="menu" href="programming.htm">
+6. Programmation
+</a><br><a class="menu" href="debugging.htm">
+7. Debogage
+</a><br><a class="menu" href="pythonscripts.htm">
+8. Scripts Python
+</a><br><a class="menu" href="cgi.htm">
+9. Scripts CGI
+</a><br><a class="menu" href="karrigellservices.htm">
+10. Services Karrigell
+</a><br><a class="menu" href="pythoninsidehtml.htm">
+11. Python Inside HTML
+</a><br><a class="menu" href="htmlinsidepython.htm">
+12. HTML Inside Python
+</a><br><a class="menu" href="htmltags.htm">
+13. HTMLTags - génère du HTML en Python
+</a><br><a class="menu" href="include.htm">
+14. Inclure des documents
+</a><br><a class="menu" href="sessions.htm">
+15. Sessions
+</a><br><span class="sel">
+16. Authentification
+</span><br><span class="sel">
+&nbsp;&nbsp;<small>16.1 Authentification HTTP de base</small></span><br><span class="sel">
+&nbsp;&nbsp;<small>16.2 La fonction RestrictToAdmin()</small></span><br><a class="menu" href="internationalization.htm">
+17. Traduction et Unicode
+</a><br><a class="menu" href="namespace.htm">
+18. Résumé des noms intégrés</a><br></td>
+<td class="content">
+<h1>16. Authentification</h1>
+<h2>16.1 Authentification HTTP de base</h2>
+<p>Karrigell prend en charge l'authentification HTTP de base, une façon de protéger l'accès à
+certains fichiers en demandant un identifiant d'utilisateur et un mot de passe. Le serveur reçoit
+les données fournies et les enregistre dans les variables globales <code>AUTH_USER</code> et <code>
+AUTH_PASSWORD</code>. Si l'utilisateur fournit un couple qui est autorisé par le serveur, la page
+lui est envoyée ; si ce couple n'est pas reconnu comme valide on lui en redemande un autre ; si
+l'utilisateur annule sa demande un message d'erreur lui est envoyé
+<p>Avec Karrigell, l'authentification est gérée à travers la fonction <code>Authentication</code> ;
+appeler <code>Authentication(<var>fonctionTest</var><big>[,</big><var>royaume</var><big>,</big><var>
+messageErreur</var><big>]</big>)</code> où <var>fonctionTest</var> est une fonction sans argument
+définie par l'utilisateur qui renvoie vrai si le test d'authentification réussit (en fonction des
+valeurs de <code>AUTH_USER</code> et de <code>AUTH_PASSWORD</code>) et faux sinon, <var>royaume</var
+> est une chaîne contenant le nom du domaine d'authentification (celui qui va apparaître sur la
+fenêtre de demande d'identifiant et mot de passe) et <var>messageErreur</var> est la chaîne de
+caractères affichée sur le navigateur si l'utilisateur annule sa demande d'authentification. <var>
+royaume</var> et <var>messageErreur</var> ont tous les deux des valeurs par défaut
+<p>Voici un exemple avec une fonction de test très simple :
+<p>
+<dl><dd><pre class="verbatim">
+&lt;%
+def testAuth():
+    return (AUTH_USER=="proust" and AUTH_PASSWORD=="marcel")
+Authentication(testAuth,"Test d'authentification",\
+    "Désolé, vous n'êtes pas autorisé à accéder à cette page")
+%&gt;
+Bienvenue, utilisateur autorisé !
+</pre></dl>
+<p>
+<p>Avec une telle fonction de test, si un visiteur trouve un moyen de lire le code source, il
+découvrira facilement un couple identifiant/mot de passe valide. Une meilleure solution est
+d'utiliser md5 : c'est une fonction qui prend une chaîne de caractères comme argument et qui
+retourne un "condensé" de 16 octets. On est sûr que les condensés de deux chaînes différentes seront
+différents, et il est impossible de retrouver la chaîne d'origine quand on ne connaît que son
+condensé
+<br>Une bonne méthode consiste à calculer les condensés md5 de l'identifiant et du mot de passe, et
+des les stocker dans un fichier. Le test d'authentification lira ce fichier, calculer les condensés
+de AUTH_USER et AUTH_PASSWORD, et retournera vrai si les condensés correspondent
+<p>
+<dl><dd><pre class="verbatim">
+&lt;%
+import md5
+digests=open("digest.ini","rb").read()
+userDigest=digests[:16]
+passwordDigest=digests[16:]
+def authTest():
+    return (md5.new(AUTH_USER).digest()==userDigest and \
+        md5.new(AUTH_PASSWORD).digest()==passwordDigest)
+Authentication(authTest,"Test d'authentification",\
+    "Désolé, vous n'êtes pas autorisé à accéder à cette page")
+%&gt;
+Bienvenue, utilisateur autorisé !
+</pre></dl>
+<p>Voir le script <code>k_password.py</code>, dans le répertoire <CODE>admin</CODE>, qui génère un fichier avec les condensés md5 de
+l'identifiant et du mot de passe de l'administrateur
+<h2>16.2 La fonction <CODE>RestrictToAdmin()</CODE></h2>
+Vous disposez d'un raccourci pour restreindre l'accès à une page à l'administrateur dont l'
+identifiant et le mot de passe ont été définis par le script <CODE>k_password.py</CODE> : une fonction
+appelée <CODE>RestrictToAdmin()</CODE>
+Mettez-la au début de votre script, de cette façon :
+<p>
+<dl><dd><pre class="verbatim">
+RestrictTo Admin()
+print "Bonjour !"
+</pre></dl>
+Le navigateur demandera les informations sur l'administrateur avant d'afficher la page
+Par défaut, ces informations sont recherchées dans le fichier admin.ini dans le répertoire admin. 
+Si vous voulez utiliser un autre fichier, vous pouvez le préciser comme argument de la fonction
+RestrictToAdmin() :
+<p>
+<dl><dd><pre class="verbatim">
+RestrictTo Admin(nom_fichier_admin)
+print "Bonjour !"
+</pre></dl>
+Le format de ce fichier doit être le même que celui généré par k_password.py
+</body>
+</html>
+</td>
+</tr></table>

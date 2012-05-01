@@ -1,0 +1,9660 @@
+(S'url'
+p1
+S'breton'
+p2
+S'francais'
+p3
+S'prix'
+p4
+S'genre'
+p5
+tp6
+.I567
+.(dp1
+I0
+(dp2
+S'prix'
+p3
+I203
+sS'url'
+p4
+S'adieu_donc'
+p5
+sS'francais'
+p6
+S'Adieu donc !'
+p7
+sS'__id__'
+p8
+I0
+sS'genre'
+p9
+I0
+sS'breton'
+p10
+S'Adieu donc !'
+p11
+ssI1
+(dp12
+g3
+I392
+sg4
+S'aet_an_aotrou_da_bariz_1'
+p13
+sg6
+S'Le seigneur est all\xe9 \xe0 Paris'
+p14
+sg8
+I1
+sg9
+I0
+sg10
+S'Aet an Aotrou da Bariz (1)'
+p15
+ssI2
+(dp16
+g3
+I222
+sg4
+S'aet_an_aotrou_da_bariz_2'
+p17
+sg6
+S'Le seigneur est all\xe9 \xe0 Paris'
+p18
+sg8
+I2
+sg9
+I0
+sg10
+S'Aet an Aotrou da Bariz (2)'
+p19
+ssI3
+(dp20
+g3
+I214
+sg4
+S'al_labourerien'
+p21
+sg6
+S'Les laboureurs'
+p22
+sg8
+I3
+sg9
+I1
+sg10
+S'Al labourerien'
+p23
+ssI4
+(dp24
+g3
+I294
+sg4
+S'al_labousig_er_c_hoad'
+p25
+sg6
+S'Le petit oiseau dans le bois'
+p26
+sg8
+I4
+sg9
+I0
+sg10
+S"Al labousig er c'hoad"
+p27
+ssI5
+(dp28
+g3
+I397
+sg4
+S'al_leanez'
+p29
+sg6
+S'La religieuse'
+p30
+sg8
+I5
+sg9
+I1
+sg10
+S'Al leanez'
+p31
+ssI6
+(dp32
+g3
+I299
+sg4
+S'al_leur_nevez'
+p33
+sg6
+S"L'aire neuve"
+p34
+sg8
+I6
+sg9
+I0
+sg10
+S'Al leur nevez'
+p35
+ssI7
+(dp36
+g3
+I272
+sg4
+S'alan_al_louarn'
+p37
+sg6
+S'Alain-le-Renard'
+p38
+sg8
+I7
+sg9
+I1
+sg10
+S'Alan-al-Louarn'
+p39
+ssI8
+(dp40
+g3
+I244
+sg4
+S'alarc_h'
+p41
+sg6
+S'Le cygne'
+p42
+sg8
+I8
+sg9
+I1
+sg10
+S"An alarc'h"
+p43
+ssI9
+(dp44
+g3
+I203
+sg4
+S'alc_houez_an_eurusted'
+p45
+sg6
+S'La cl\xe9 du bonheur'
+p46
+sg8
+I9
+sg9
+I0
+sg10
+S"Alc'houez an e\xfcrusted"
+p47
+ssI10
+(dp48
+g3
+I388
+sg4
+S'alieu_mat'
+p49
+sg6
+S'Bons avis'
+p50
+sg8
+I10
+sg9
+I0
+sg10
+S'Alieu mat'
+p51
+ssI11
+(dp52
+g3
+I382
+sg4
+S'an_amzer_dremenet'
+p53
+sg6
+S'Le temps pass\xe9'
+p54
+sg8
+I11
+sg9
+I1
+sg10
+S'An amzer dremenet'
+p55
+ssI12
+(dp56
+g3
+I211
+sg4
+S'an_aotrou_ar_c_hont_1'
+p57
+sg6
+S'Le Seigneur Comte (1)'
+p58
+sg8
+I12
+sg9
+I1
+sg10
+S"An Aotrou 'r C'hont (1)"
+p59
+ssI13
+(dp60
+g3
+I394
+sg4
+S'an_aotrou_ar_c_hont_2'
+p61
+sg6
+S'Le Seigneur Comte (2)'
+p62
+sg8
+I13
+sg9
+I1
+sg10
+S"An Aotrou 'r C'hont (2)"
+p63
+ssI14
+(dp64
+g3
+I399
+sg4
+S'an_aotrou_ar_c_hont_3'
+p65
+sg6
+S'Le Seigneur Comte (3)'
+p66
+sg8
+I14
+sg9
+I1
+sg10
+S"An Aotrou 'r C'hont (3)"
+p67
+ssI15
+(dp68
+g3
+I283
+sg4
+S'an_aotrou_a_gernevez_a_sant_yann_pleuzal'
+p69
+sg6
+S'Le Seigneur de Kernev\xe9 de Saint-Jean en Plo\xe9zal'
+p70
+sg8
+I15
+sg9
+I1
+sg10
+S'An Aotrou Gernevez a sant Yann Pleuzal'
+p71
+ssI16
+(dp72
+g3
+I248
+sg4
+S'an_aotrou_nann'
+p73
+sg6
+S'Le Seigneur Nann'
+p74
+sg8
+I16
+sg9
+I1
+sg10
+S'An Aotrou Nann'
+p75
+ssI17
+(dp76
+g3
+I369
+sg4
+S'an_astrailhad'
+p77
+sg6
+S"L'espi\xe8gle"
+p78
+sg8
+I17
+sg9
+I0
+sg10
+S'An Astrailhad'
+p79
+ssI18
+(dp80
+g3
+I335
+sg4
+S'an_den_klouedet'
+p81
+sg6
+S"L'homme \xe0 la barri\xe8re"
+p82
+sg8
+I18
+sg9
+I0
+sg10
+S'An den klouedet <i class="danse">Piler Lann</i>'
+p83
+ssI19
+(dp84
+g3
+I348
+sg4
+S'an_droug_hirnez'
+p85
+sg6
+S'Le mal du pays'
+p86
+sg8
+I19
+sg9
+I0
+sg10
+S'An droug-hirnez'
+p87
+ssI20
+(dp88
+g3
+I226
+sg4
+S'an_drougrans'
+p89
+sg6
+S'La rupture'
+p90
+sg8
+I20
+sg9
+I0
+sg10
+S'An drougra\xf1s'
+p91
+ssI21
+(dp92
+g3
+I328
+sg4
+S'an_durzunell'
+p93
+sg6
+S'La tourterelle'
+p94
+sg8
+I21
+sg9
+I1
+sg10
+S'An durzhunell'
+p95
+ssI22
+(dp96
+g3
+I335
+sg4
+S'an_durzhunell_gourvil'
+p97
+sg6
+S'La tourterelle'
+p98
+sg8
+I22
+sg9
+I0
+sg10
+S'An durzhunell (2)'
+p99
+ssI23
+(dp100
+g3
+I268
+sg4
+S'an_eosterien'
+p101
+sg6
+S'Les moissonneurs'
+p102
+sg8
+I23
+sg9
+I0
+sg10
+S'An Eosterien'
+p103
+ssI24
+(dp104
+g3
+I247
+sg4
+S'an_eostig'
+p105
+sg6
+S'Le rossignol'
+p106
+sg8
+I24
+sg9
+I1
+sg10
+S'An eostig'
+p107
+ssI25
+(dp108
+g3
+I253
+sg4
+S'an_erminig'
+p109
+sg6
+S"L'hermine"
+p110
+sg8
+I25
+sg9
+I1
+sg10
+S'An Erminig'
+p111
+ssI26
+(dp112
+g3
+I271
+sg4
+S'an_hini_a_garan'
+p113
+sg6
+S"Celui que j'aime"
+p114
+sg8
+I26
+sg9
+I1
+sg10
+S'An hini a garan'
+p115
+ssI27
+(dp116
+g3
+I373
+sg4
+S'an_hini_gozh'
+p117
+sg6
+S'La vieille'
+p118
+sg8
+I27
+sg9
+I0
+sg10
+S'An hini gozh'
+p119
+ssI28
+(dp120
+g3
+I338
+sg4
+S'an_hini_oa_aet_da_welet_e_vestrez_d_an_ifern_1'
+p121
+sg6
+S'Celui qui alla voir sa ma\xeetresse en enfer (1)'
+p122
+sg8
+I28
+sg9
+I1
+sg10
+S"An hini oa aet da welet e vestrez d'an ifern (1)"
+p123
+ssI29
+(dp124
+g3
+I282
+sg4
+S'an_hini_oa_aet_da_welet_e_vestrez_d_an_ifern_2'
+p125
+sg6
+S'Celui qui alla voir sa ma\xeetresse en enfer (2)'
+p126
+sg8
+I29
+sg9
+I1
+sg10
+S"An hini oa aet da welet e vestrez d'an ifern (2)"
+p127
+ssI30
+(dp128
+g3
+I338
+sg4
+S'an_hini_oa_aet_da_welet_e_vestrez_d_an_ifern_3'
+p129
+sg6
+S'Celui qui alla voir sa ma\xeetresse en enfer (3)'
+p130
+sg8
+I30
+sg9
+I1
+sg10
+S"An hini oa aet da welet e vestrez d'an ifern (3)"
+p131
+ssI31
+(dp132
+g3
+I298
+sg4
+S'an_hini_oa_aet_da_welet_e_vestrez_d_an_ifern_4'
+p133
+sg6
+S'Celui qui alla voir sa ma\xeetresse en enfer (4)'
+p134
+sg8
+I31
+sg9
+I1
+sg10
+S"An hini oa aet da welet e vestrez d'an ifern (4)"
+p135
+ssI32
+(dp136
+g3
+I232
+sg4
+S'an_hollaika'
+p137
+sg6
+S"L'appel des p\xe2tres"
+p138
+sg8
+I32
+sg9
+I0
+sg10
+S'An holla\xefka'
+p139
+ssI33
+(dp140
+g3
+I283
+sg4
+S'an_hunvreou_kaer'
+p141
+sg6
+S'Les beaux r\xeaves'
+p142
+sg8
+I33
+sg9
+I0
+sg10
+S'An hu\xf1vreo\xf9 kaer'
+p143
+ssI34
+(dp144
+g3
+I253
+sg4
+S'an_intanvez_paour_1'
+p145
+sg6
+S'La pauvre veuve (1)'
+p146
+sg8
+I34
+sg9
+I1
+sg10
+S'An inta\xf1vez paour (1)'
+p147
+ssI35
+(dp148
+g3
+I381
+sg4
+S'an_intanvez_paour_2'
+p149
+sg6
+S'La pauvre veuve (2)'
+p150
+sg8
+I35
+sg9
+I1
+sg10
+S'An inta\xf1vez paour (2)'
+p151
+ssI36
+(dp152
+g3
+I247
+sg4
+S'an_intanvez_kozh'
+p153
+sg6
+S'La vieille veuve'
+p154
+sg8
+I36
+sg9
+I0
+sg10
+S'An inta\xf1vez kozh'
+p155
+ssI37
+(dp156
+g3
+I204
+sg4
+S'an_teir_gwreg_kablus'
+p157
+sg6
+S'Les trois femmes coupables'
+p158
+sg8
+I37
+sg9
+I1
+sg10
+S'An teir gwreg kablus'
+p159
+ssI38
+(dp160
+g3
+I348
+sg4
+S'an_teir_vari_1'
+p161
+sg6
+S'Les trois Marie (1)'
+p162
+sg8
+I38
+sg9
+I1
+sg10
+S'An teir Vari (1)'
+p163
+ssI39
+(dp164
+g3
+I257
+sg4
+S'an_teir_vari_2'
+p165
+sg6
+S'Les trois Marie (2)'
+p166
+sg8
+I39
+sg9
+I1
+sg10
+S'An teir Vari (2)'
+p167
+ssI40
+(dp168
+g3
+I217
+sg4
+S'an_tour_dantelezet'
+p169
+sg6
+S'Le clocher \xe0 jour'
+p170
+sg8
+I40
+sg9
+I0
+sg10
+S'An tour dantelezet'
+p171
+ssI41
+(dp172
+g3
+I222
+sg4
+S'an_tri_anjelus'
+p173
+sg6
+S'Les trois Ang\xe9lus'
+p174
+sg8
+I41
+sg9
+I0
+sg10
+S'An tri Anjelus'
+p175
+ssI42
+(dp176
+g3
+I202
+sg4
+S'an_tri_manac_h_ruz'
+p177
+sg6
+S'Les trois moines rouges'
+p178
+sg8
+I42
+sg9
+I1
+sg10
+S"An tri manac'h ruz"
+p179
+ssI43
+(dp180
+g3
+I369
+sg4
+S'aotrou_nann_hag_ar_gorrigan'
+p181
+sg6
+S'Le Seigneur Nann et la F\xe9e'
+p182
+sg8
+I43
+sg9
+I1
+sg10
+S'Aotrou Nann hag ar Gorrigan'
+p183
+ssI44
+(dp184
+g3
+I318
+sg4
+S'a_pa_oen_me_yaouank_e_lesat_ar_merc_hed'
+p185
+sg6
+S"Quand j'\xe9tais jeune \xe0 faire la cour aux filles"
+p186
+sg8
+I44
+sg9
+I0
+sg10
+S"A pa oen-me yaouank \xe9 lesat ar merc'hed"
+p187
+ssI45
+(dp188
+g3
+I248
+sg4
+S'ar_beleg_forbannet'
+p189
+sg6
+S'Le pr\xeatre exil\xe9'
+p190
+sg8
+I45
+sg9
+I1
+sg10
+S'Ar beleg forbannet'
+p191
+ssI46
+(dp192
+g3
+I307
+sg4
+S'ar_bleizi_mor'
+p193
+sg6
+S'Les Loups de Mer'
+p194
+sg8
+I46
+sg9
+I1
+sg10
+S'Ar Bleizi-Mor'
+p195
+ssI47
+(dp196
+g3
+I284
+sg4
+S'ar_bonomig'
+p197
+sg6
+S'Le petit bonhomme'
+p198
+sg8
+I47
+sg9
+I0
+sg10
+S'Ar bonomig'
+p199
+ssI48
+(dp200
+g3
+I301
+sg4
+S'ar_boudedeo'
+p201
+sg6
+S'Le Juif-Errant'
+p202
+sg8
+I48
+sg9
+I1
+sg10
+S'Ar Boudedeo'
+p203
+ssI49
+(dp204
+g3
+I358
+sg4
+S'ar_boutaouer_koad'
+p205
+sg6
+S'Le sabotier'
+p206
+sg8
+I49
+sg9
+I0
+sg10
+S'Ar botaouer koad'
+p207
+ssI50
+(dp208
+g3
+I391
+sg4
+S'ar_breur_mager'
+p209
+sg6
+S'Le fr\xe8re de lait'
+p210
+sg8
+I50
+sg9
+I1
+sg10
+S'Ar breur mager'
+p211
+ssI51
+(dp212
+g3
+I326
+sg4
+S'ar_bromesa_taer'
+p213
+sg6
+S'La promesse inconsid\xe9r\xe9e'
+p214
+sg8
+I51
+sg9
+I0
+sg10
+S'Ar bromesa taer'
+p215
+ssI52
+(dp216
+g3
+I216
+sg4
+S'ar_bugel_koar_1'
+p217
+sg6
+S"L'enfant de cire (1)"
+p218
+sg8
+I52
+sg9
+I1
+sg10
+S'Ar bugel koar (1)'
+p219
+ssI53
+(dp220
+g3
+I258
+sg4
+S'ar_bugel_koar_2'
+p221
+sg6
+S"L'enfant de cire (2)"
+p222
+sg8
+I53
+sg9
+I1
+sg10
+S'Ar bugel koar (2)'
+p223
+ssI54
+(dp224
+g3
+I269
+sg4
+S'ar_bugel_lec_hiet'
+p225
+sg6
+S"L'enfant suppos\xe9"
+p226
+sg8
+I54
+sg9
+I1
+sg10
+S"Ar bugel lec'hiet"
+p227
+ssI55
+(dp228
+g3
+I282
+sg4
+S'ar_c_habiten_yaouank'
+p229
+sg6
+S'Le jeune capitaine'
+p230
+sg8
+I55
+sg9
+I0
+sg10
+S"Ar c'habiten yaouank"
+p231
+ssI56
+(dp232
+g3
+I241
+sg4
+S'ar_c_hakous'
+p233
+sg6
+S'Le L\xe9preux'
+p234
+sg8
+I56
+sg9
+I1
+sg10
+S"Ar C'hakous"
+p235
+ssI57
+(dp236
+g3
+I232
+sg4
+S'ar_c_hazh_koad'
+p237
+sg6
+S"L'\xe9cureuil"
+p238
+sg8
+I57
+sg9
+I0
+sg10
+S"Ar c'hazh koad"
+p239
+ssI58
+(dp240
+g3
+I252
+sg4
+S'ar_c_hemener_hag_ar_c_horred'
+p241
+sg6
+S'Le tailleur et les nains'
+p242
+sg8
+I58
+sg9
+I1
+sg10
+S"Ar c'hemener hag ar c'horred"
+p243
+ssI59
+(dp244
+g3
+I205
+sg4
+S'ar_c_hi_du'
+p245
+sg6
+S'Le chien noir'
+p246
+sg8
+I59
+sg9
+I0
+sg10
+S"Ar c'hi du"
+p247
+ssI60
+(dp248
+g3
+I234
+sg4
+S'ar_c_hi_en_dienn'
+p249
+sg6
+S'Le chien dans la cr\xe8me'
+p250
+sg8
+I60
+sg9
+I0
+sg10
+S"Ar c'hi en dienn"
+p251
+ssI61
+(dp252
+g3
+I237
+sg4
+S'ar_c_hloareg_paour'
+p253
+sg6
+S'Le pauvre clerc'
+p254
+sg8
+I61
+sg9
+I0
+sg10
+S"Ar c'hloareg paour"
+p255
+ssI62
+(dp256
+g3
+I261
+sg4
+S'ar_c_hont_a_weto'
+p257
+sg6
+S'Le comte de Weto'
+p258
+sg8
+I62
+sg9
+I1
+sg10
+S"Ar c'hont a Weto"
+p259
+ssI63
+(dp260
+g3
+I209
+sg4
+S'ar_c_horn_bras_populo'
+p261
+sg6
+S'La grande pipe Populo'
+p262
+sg8
+I63
+sg9
+I0
+sg10
+S"Ar c'horn bras Populo"
+p263
+ssI64
+(dp264
+g3
+I253
+sg4
+S'ar_c_horred'
+p265
+sg6
+S'Les nains'
+p266
+sg8
+I64
+sg9
+I1
+sg10
+S"Ar c'horred"
+p267
+ssI65
+(dp268
+g3
+I341
+sg4
+S'ar_chikolodenn'
+p269
+sg6
+S'La coiffe de St Pol de L\xe9on'
+p270
+sg8
+I65
+sg9
+I0
+sg10
+S'Ar chikolodenn'
+p271
+ssI66
+(dp272
+g3
+I316
+sg4
+S'ar_chouanted'
+p273
+sg6
+S'Les Chouans'
+p274
+sg8
+I66
+sg9
+I1
+sg10
+S'Ar Chouanted'
+p275
+ssI67
+(dp276
+g3
+I268
+sg4
+S'ar_falc_hon'
+p277
+sg6
+S'Le faucon'
+p278
+sg8
+I67
+sg9
+I1
+sg10
+S"Ar falc'hon"
+p279
+ssI68
+(dp280
+g3
+I322
+sg4
+S'ar_fleut_hag_an_taboulin'
+p281
+sg6
+S'La fl\xfbte et le tambourin'
+p282
+sg8
+I68
+sg9
+I0
+sg10
+S'Ar fle\xfct hag an taboulin'
+p283
+ssI69
+(dp284
+g3
+I327
+sg4
+S'ar_gemenerez'
+p285
+sg6
+S'La couturi\xe8re'
+p286
+sg8
+I69
+sg9
+I1
+sg10
+S'Ar gemenerez'
+p287
+ssI70
+(dp288
+g3
+I353
+sg4
+S'ar_gernez'
+p289
+sg6
+S'La famine'
+p290
+sg8
+I70
+sg9
+I1
+sg10
+S'Ar gernez'
+p291
+ssI71
+(dp292
+g3
+I284
+sg4
+S'ar_goulenn'
+p293
+sg6
+S'Chants de noces - 1. La demande en mariage'
+p294
+sg8
+I71
+sg9
+I0
+sg10
+S'Ar goulenn'
+p295
+ssI72
+(dp296
+g3
+I204
+sg4
+S'ar_gouriz'
+p297
+sg6
+S'Chants de noces - 2. La ceinture'
+p298
+sg8
+I72
+sg9
+I0
+sg10
+S'Ar gouriz'
+p299
+ssI73
+(dp300
+g3
+I345
+sg4
+S'ar_grampouezherez_1'
+p301
+sg6
+S'La cr\xeapi\xe8re (1)'
+p302
+sg8
+I73
+sg9
+I2
+sg10
+S'Ar grampouezherez (1)'
+p303
+ssI74
+(dp304
+g3
+I287
+sg4
+S'ar_grampouezherez_2'
+p305
+sg6
+S'La cr\xeapi\xe8re (2)'
+p306
+sg8
+I74
+sg9
+I2
+sg10
+S'Ar grampouezherez (2)'
+p307
+ssI75
+(dp308
+g3
+I220
+sg4
+S'ar_grusifi_saveteet'
+p309
+sg6
+S'Le Crucifix sauv\xe9'
+p310
+sg8
+I75
+sg9
+I1
+sg10
+S'Ar Grusifi saveteet'
+p311
+ssI76
+(dp312
+g3
+I338
+sg4
+S'ar_gwall_deodou'
+p313
+sg6
+S'Les mauvaises langues'
+p314
+sg8
+I76
+sg9
+I1
+sg10
+S'Ar gwall-deodo\xf9'
+p315
+ssI77
+(dp316
+g3
+I383
+sg4
+S'ar_gwennilied'
+p317
+sg6
+S'Les hirondelles'
+p318
+sg8
+I77
+sg9
+I0
+sg10
+S'Ar gwennilied'
+p319
+ssI78
+(dp320
+g3
+I321
+sg4
+S'ar_mab'
+p321
+sg6
+S'Le fils'
+p322
+sg8
+I78
+sg9
+I2
+sg10
+S'Ar mab'
+p323
+ssI79
+(dp324
+g3
+I275
+sg4
+S'ar_martolod_yaouank'
+p325
+sg6
+S'Le jeune matelot'
+p326
+sg8
+I79
+sg9
+I1
+sg10
+S'Ar martolod yaouank'
+p327
+ssI80
+(dp328
+g3
+I288
+sg4
+S'ar_meliner'
+p329
+sg6
+S'Le meunier'
+p330
+sg8
+I80
+sg9
+I0
+sg10
+S'Ar meliner'
+p331
+ssI81
+(dp332
+g3
+I211
+sg4
+S'ar_meliner_yaouank'
+p333
+sg6
+S'Le jeune meunier'
+p334
+sg8
+I81
+sg9
+I1
+sg10
+S'Ar meliner yaouank'
+p335
+ssI82
+(dp336
+g3
+I290
+sg4
+S'ar_merc_hed_yaouank_diwar_dro_gwengamp'
+p337
+sg6
+S'Les jeunes filles des environs de Guingamp'
+p338
+sg8
+I82
+sg9
+I0
+sg10
+S"Ar merc'hed yaouank diwar-dro Gwengamp"
+p339
+ssI83
+(dp340
+g3
+I254
+sg4
+S'ar_mezvier'
+p341
+sg6
+S"L'ivrogne"
+p342
+sg8
+I83
+sg9
+I0
+sg10
+S'Ar mezvier'
+p343
+ssI84
+(dp344
+g3
+I280
+sg4
+S'ar_miliner_laer_2'
+p345
+sg6
+S'Le meunier voleur (2)'
+p346
+sg8
+I84
+sg9
+I0
+sg10
+S'Ar miliner laer (2)'
+p347
+ssI85
+(dp348
+g3
+I346
+sg4
+S'ar_paotr_glac_haret'
+p349
+sg6
+S'Le gar\xe7on chagrin\xe9'
+p350
+sg8
+I85
+sg9
+I2
+sg10
+S"Ar paotr glac'haret"
+p351
+ssI86
+(dp352
+g3
+I367
+sg4
+S'ar_paotr_sans_soursi'
+p353
+sg6
+S'Le gars sans souci'
+p354
+sg8
+I86
+sg9
+I0
+sg10
+S'Ar paotr Sans Soursi'
+p355
+ssI87
+(dp356
+g3
+I284
+sg4
+S'ar_paour_kaezh_lanig'
+p357
+sg6
+S'Le pauvre Lanig'
+p358
+sg8
+I87
+sg9
+I1
+sg10
+S'Ar paour-kaezh Lanig'
+p359
+ssI88
+(dp360
+g3
+I305
+sg4
+S'ar_paueger_pariz'
+p361
+sg6
+S'Sur les pav\xe9s de Paris'
+p362
+sg8
+I88
+sg9
+I0
+sg10
+S'Ar pa\xf9eg\xe9r Pariz'
+p363
+ssI89
+(dp364
+g3
+I239
+sg4
+S'ar_pilhaouer'
+p365
+sg6
+S'Le chiffonnier'
+p366
+sg8
+I89
+sg9
+I0
+sg10
+S'Ar pilhaouer <i class="danse">Gavotte d\'Hanvec</i>'
+p367
+ssI90
+(dp368
+g3
+I240
+sg4
+S'ar_plac_h_dimezet_gant_satan'
+p369
+sg6
+S'La fianc\xe9e de Satan'
+p370
+sg8
+I90
+sg9
+I1
+sg10
+S"Ar plac'h dimezet gant Satan"
+p371
+ssI91
+(dp372
+g3
+I368
+sg4
+S'ar_plac_h_goune_et'
+p373
+sg6
+S'Le mariage forc\xe9'
+p374
+sg8
+I91
+sg9
+I0
+sg10
+S"Ar plac'h goune'et"
+p375
+ssI92
+(dp376
+g3
+I339
+sg4
+S'ar_plac_h_kollet'
+p377
+sg6
+S'La fille perdue'
+p378
+sg8
+I92
+sg9
+I0
+sg10
+S"Ar plac'h kollet"
+p379
+ssI93
+(dp380
+g3
+I220
+sg4
+S'ar_plac_h_manket'
+p381
+sg6
+S'La fille fautive'
+p382
+sg8
+I93
+sg9
+I1
+sg10
+S"Ar plac'h manket"
+p383
+ssI94
+(dp384
+g3
+I367
+sg4
+S'ar_plac_h_yaouank_glac_haret1'
+p385
+sg6
+S'La jeune fille afflig\xe9e'
+p386
+sg8
+I94
+sg9
+I1
+sg10
+S"Ar plac'h yaouank glac'haret (1)"
+p387
+ssI95
+(dp388
+g3
+I304
+sg4
+S'ar_plac_h_yaouank_glac_haret2'
+p389
+sg6
+S'La jeune fille afflig\xe9e'
+p390
+sg8
+I95
+sg9
+I1
+sg10
+S"Ar plac'h yaouank glac'haret (2)"
+p391
+ssI96
+(dp392
+g3
+I217
+sg4
+S'ar_plac_hig_hag_ene_he_mamm'
+p393
+sg6
+S"La jeune fille et l'\xe2me de sa m\xe8re"
+p394
+sg8
+I96
+sg9
+I1
+sg10
+S"Ar plac'hig hag ene he mamm"
+p395
+ssI97
+(dp396
+g3
+I386
+sg4
+S'ar_prins_yaouank'
+p397
+sg6
+S'Le jeune prince'
+p398
+sg8
+I97
+sg9
+I1
+sg10
+S'Ar pri\xf1s yaouank'
+p399
+ssI98
+(dp400
+g3
+I295
+sg4
+S'ar_rannou'
+p401
+sg6
+S'Les S\xe9ries'
+p402
+sg8
+I98
+sg9
+I1
+sg10
+S'Ar Ranno\xf9'
+p403
+ssI99
+(dp404
+g3
+I374
+sg4
+S'ar_re_c_hlas'
+p405
+sg6
+S'Les Bleus'
+p406
+sg8
+I99
+sg9
+I1
+sg10
+S"Ar re C'hlas"
+p407
+ssI100
+(dp408
+g3
+I259
+sg4
+S'ar_re_unanet'
+p409
+sg6
+S'Les Ligueurs'
+p410
+sg8
+I100
+sg9
+I1
+sg10
+S'Ar re unanet'
+p411
+ssI101
+(dp412
+g3
+I291
+sg4
+S'ar_roue_gradlon'
+p413
+sg6
+S'Le roi Gralon'
+p414
+sg8
+I101
+sg9
+I1
+sg10
+S'Ar Roue Gradlon'
+p415
+ssI102
+(dp416
+g3
+I220
+sg4
+S'ar_vatezh_vihan'
+p417
+sg6
+S'La petite servante'
+p418
+sg8
+I102
+sg9
+I1
+sg10
+S'Ar vatezh vihan'
+p419
+ssI103
+(dp420
+g3
+I371
+sg4
+S'ar_vatezh_vihan_ganet_dezhi_ur_mab_1'
+p421
+sg6
+S'La servante qui a eu un fils (1)'
+p422
+sg8
+I103
+sg9
+I1
+sg10
+S'Ar vatezh vihan ganet dezhi ur mab (1) <i class="danse">Hanterdro</i>'
+p423
+ssI104
+(dp424
+g3
+I232
+sg4
+S'ar_vatezh_vihan_ganet_dezhi_ur_mab_2'
+p425
+sg6
+S'La servante qui a eu un fils (2)'
+p426
+sg8
+I104
+sg9
+I1
+sg10
+S'Ar vatezh vihan ganet dezhi ur mab (2) <i class="danse">Hanterdro</i>'
+p427
+ssI105
+(dp428
+g3
+I335
+sg4
+S'ar_vestrez_kollet'
+p429
+sg6
+S"L'amie perdue"
+p430
+sg8
+I105
+sg9
+I1
+sg10
+S'Ar vestrez kollet'
+p431
+ssI106
+(dp432
+g3
+I386
+sg4
+S'ar_videdig'
+p433
+sg6
+S'Le petit bidet'
+p434
+sg8
+I106
+sg9
+I0
+sg10
+S'Ar videdig'
+p435
+ssI107
+(dp436
+g3
+I258
+sg4
+S'ar_vinorez'
+p437
+sg6
+S'La jeune fille'
+p438
+sg8
+I107
+sg9
+I1
+sg10
+S'Ar vinorez'
+p439
+ssI108
+(dp440
+g3
+I333
+sg4
+S'ar_vinorezig_1'
+p441
+sg6
+S'La petite mineure (1)'
+p442
+sg8
+I108
+sg9
+I1
+sg10
+S'Ar Vinorezig (1)'
+p443
+ssI109
+(dp444
+g3
+I296
+sg4
+S'ar_vinorezig_2'
+p445
+sg6
+S'La petite mineure (2)'
+p446
+sg8
+I109
+sg9
+I1
+sg10
+S'Ar Vinorezig (2)'
+p447
+ssI110
+(dp448
+g3
+I374
+sg4
+S'ar_vinorezig_3'
+p449
+sg6
+S'La petite mineure (3)'
+p450
+sg8
+I110
+sg9
+I1
+sg10
+S'Ar Vinorezig (3)'
+p451
+ssI111
+(dp452
+g3
+I368
+sg4
+S'ar_vinorezig_a_draon_al_lann'
+p453
+sg6
+S'La petite orpheline du bas de la lande'
+p454
+sg8
+I111
+sg9
+I1
+sg10
+S'Ar vinorezig a drao\xf1 al lann'
+p455
+ssI112
+(dp456
+g3
+I240
+sg4
+S'ar_werzhid_arc_hant'
+p457
+sg6
+S"Le fuseau d'argent"
+p458
+sg8
+I112
+sg9
+I0
+sg10
+S"Ar werzhid arc'hant"
+p459
+ssI113
+(dp460
+g3
+I239
+sg4
+S'ar_wreg_divutun'
+p461
+sg6
+S'La femme sans tabac'
+p462
+sg8
+I113
+sg9
+I0
+sg10
+S'Ar wreg divutun'
+p463
+ssI114
+(dp464
+g3
+I319
+sg4
+S'ar_yarig_wenn'
+p465
+sg6
+S'La petite poule blanche'
+p466
+sg8
+I114
+sg9
+I2
+sg10
+S'Ar yarig wenn'
+p467
+ssI115
+(dp468
+g3
+I366
+sg4
+S'ar_yod_pouloudet'
+p469
+sg6
+S'La bouillie grumeleuse'
+p470
+sg8
+I115
+sg9
+I0
+sg10
+S'Ar yod pouloudet <i class="danse">Gavotte</i>'
+p471
+ssI116
+(dp472
+g3
+I387
+sg4
+S'azenorig_c_hlas'
+p473
+sg6
+S'Az\xe9nor la p\xe2le'
+p474
+sg8
+I116
+sg9
+I1
+sg10
+S"Azenorig c'hlas"
+p475
+ssI117
+(dp476
+g3
+I255
+sg4
+S'bal_perroz'
+p477
+sg6
+S'Le bal de Perros-Guirec'
+p478
+sg8
+I117
+sg9
+I0
+sg10
+S'Bal Perroz'
+p479
+ssI118
+(dp480
+g3
+I255
+sg4
+S'bale_arzhur'
+p481
+sg6
+S"La marche d'Arthur"
+p482
+sg8
+I118
+sg9
+I1
+sg10
+S'Bale Arzhur'
+p483
+ssI119
+(dp484
+g3
+I330
+sg4
+S'bannielou'
+p485
+sg6
+S'Les banni\xe8res de Lampaul'
+p486
+sg8
+I119
+sg9
+I0
+sg10
+S'Bannielo\xf9 Lambaol'
+p487
+ssI120
+(dp488
+g3
+I210
+sg4
+S'baron_jaouioz'
+p489
+sg6
+S'Le baron de Jauioz'
+p490
+sg8
+I120
+sg9
+I1
+sg10
+S'Baron Jaouioz'
+p491
+ssI121
+(dp492
+g3
+I268
+sg4
+S'beg_al_laouenanig'
+p493
+sg6
+S'Le bec du roitelet'
+p494
+sg8
+I121
+sg9
+I2
+sg10
+S'Beg al Laouenanig'
+p495
+ssI122
+(dp496
+g3
+I230
+sg4
+S'bing_bang_kloc_hou'
+p497
+sg6
+S'Ding, dong, les cloches'
+p498
+sg8
+I122
+sg9
+I2
+sg10
+S"Bing, bang, kloc'ho\xf9"
+p499
+ssI123
+(dp500
+g3
+I360
+sg4
+S'bleuniou_mae'
+p501
+sg6
+S'Les fleurs de mai'
+p502
+sg8
+I123
+sg9
+I1
+sg10
+S'Bleunio\xf9 Mae'
+p503
+ssI124
+(dp504
+g3
+I356
+sg4
+S'bleuniou_o_tremen'
+p505
+sg6
+S'Les fleurs qui passent'
+p506
+sg8
+I124
+sg9
+I0
+sg10
+S'Bleunio\xf9 o tremen'
+p507
+ssI125
+(dp508
+g3
+I245
+sg4
+S'bloavezh_mat'
+p509
+sg6
+S'Bonne ann\xe9e !'
+p510
+sg8
+I125
+sg9
+I0
+sg10
+S'Bloavezh mat !'
+p511
+ssI126
+(dp512
+g3
+I225
+sg4
+S'boked_eured'
+p513
+sg6
+S'Le bouquet de mariage'
+p514
+sg8
+I126
+sg9
+I0
+sg10
+S'Boked eured'
+p515
+ssI127
+(dp516
+g3
+I265
+sg4
+S'bonomig'
+p517
+sg6
+S'Bonomig'
+p518
+sg8
+I127
+sg9
+I0
+sg10
+S'Bonomig'
+p519
+ssI128
+(dp520
+g3
+I218
+sg4
+S'bosenn_elliant'
+p521
+sg6
+S"La peste d'Elliant"
+p522
+sg8
+I128
+sg9
+I1
+sg10
+S'Bosenn Elliant'
+p523
+ssI129
+(dp524
+g3
+I327
+sg4
+S'bran'
+p525
+sg6
+S'Bran, ou Le prisonnier de guerre'
+p526
+sg8
+I129
+sg9
+I1
+sg10
+S'Bran'
+p527
+ssI130
+(dp528
+g3
+I381
+sg4
+S'brec_hedig'
+p529
+sg6
+S"Brec'hedig"
+p530
+sg8
+I130
+sg9
+I0
+sg10
+S"Brec'hedig"
+p531
+ssI131
+(dp532
+g3
+I373
+sg4
+S'breiz_izel'
+p533
+sg6
+S'Basse-Bretagne'
+p534
+sg8
+I131
+sg9
+I1
+sg10
+S'Breizh-Izel'
+p535
+ssI132
+(dp536
+g3
+I217
+sg4
+S'bro_gozh'
+p537
+sg6
+S'Le vieux pays de mes anc\xeatres'
+p538
+sg8
+I132
+sg9
+I0
+sg10
+S'Bro gozh ma zado\xf9'
+p539
+ssI133
+(dp540
+g3
+I330
+sg4
+S'd_ober_barlennig'
+p541
+sg6
+S'Pour faire sauter les enfants sur les genoux'
+p542
+sg8
+I133
+sg9
+I2
+sg10
+S"D'ober barlennig"
+p543
+ssI134
+(dp544
+g3
+I336
+sg4
+S'da_beder_demezell'
+p545
+sg6
+S'A quatre demoiselles'
+p546
+sg8
+I134
+sg9
+I0
+sg10
+S'Da beder demezell'
+p547
+ssI135
+(dp548
+g3
+I348
+sg4
+S'da_unan'
+p549
+sg6
+S'Tout seul'
+p550
+sg8
+I135
+sg9
+I1
+sg10
+S'Da-unan'
+p551
+ssI136
+(dp552
+g3
+I262
+sg4
+S'dalc_h_sonj_o_breizh_izel'
+p553
+sg6
+S'Souviens-toi, \xf4 Bretagne !'
+p554
+sg8
+I136
+sg9
+I0
+sg10
+S"Dalc'h so\xf1j, o Breizh-Izel !"
+p555
+ssI137
+(dp556
+g3
+I369
+sg4
+S'dalit_ho_sac_h_hag_an_eri'
+p557
+sg6
+S'Tenez votre sac et le lacet'
+p558
+sg8
+I137
+sg9
+I0
+sg10
+S"Dalit ho sac'h hag an eri"
+p559
+ssI138
+(dp560
+g3
+I333
+sg4
+S'dans_tro_1'
+p561
+sg6
+S'Danse en rond (1)'
+p562
+sg8
+I138
+sg9
+I2
+sg10
+S'Da\xf1s-tro'
+p563
+ssI139
+(dp564
+g3
+I274
+sg4
+S'dans_tro'
+p565
+sg6
+S'Danse en rond (2)'
+p566
+sg8
+I139
+sg9
+I2
+sg10
+S'Da\xf1s-tro'
+p567
+ssI140
+(dp568
+g3
+I362
+sg4
+S'daou_soner_landevant'
+p569
+sg6
+S'Deux sonneurs de Landevant'
+p570
+sg8
+I140
+sg9
+I0
+sg10
+S'Daou soner Landevant'
+p571
+ssI141
+(dp572
+g3
+I318
+sg4
+S'dek_gwech_on_bet_dimezet'
+p573
+sg6
+S"J'ai \xe9t\xe9 mari\xe9 dix fois"
+p574
+sg8
+I141
+sg9
+I0
+sg10
+S'Dek gwech on bet dimezet'
+p575
+ssI142
+(dp576
+g3
+I298
+sg4
+S'den_ieuank_en_arme'
+p577
+sg6
+S'Le jeune homme soldat'
+p578
+sg8
+I142
+sg9
+I0
+sg10
+S'D\xe9n ieuank en arm\xe9'
+p579
+ssI143
+(dp580
+g3
+I278
+sg4
+S'deuit_hu_ganin_me'
+p581
+sg6
+S'Venez avec moi'
+p582
+sg8
+I143
+sg9
+I0
+sg10
+S'Deuit-hu ganin-me'
+p583
+ssI144
+(dp584
+g3
+I386
+sg4
+S'dimeet_me_mamm'
+p585
+sg6
+S'Mariez-moi, m\xe8re'
+p586
+sg8
+I144
+sg9
+I0
+sg10
+S'Dimeet me, mamm'
+p587
+ssI145
+(dp588
+g3
+I231
+sg4
+S'diougan'
+p589
+sg6
+S"La proph\xe9tie de Gwenc'hlan"
+p590
+sg8
+I145
+sg9
+I1
+sg10
+S"Diougan Gwenc'hlan"
+p591
+ssI146
+(dp592
+g3
+I200
+sg4
+S'distro_eus_a_vro_saoz'
+p593
+sg6
+S"Le retour d'Angleterre"
+p594
+sg8
+I146
+sg9
+I1
+sg10
+S'Distro eus a Vro-Saoz'
+p595
+ssI147
+(dp596
+g3
+I372
+sg4
+S'distro_marzhin'
+p597
+sg6
+S'Le retour de Merlin'
+p598
+sg8
+I147
+sg9
+I1
+sg10
+S'Distro Marzhin'
+p599
+ssI148
+(dp600
+g3
+I334
+sg4
+S'disul_de_vitin_mitin_mad'
+p601
+sg6
+S'Dimanche matin, de bon matin'
+p602
+sg8
+I148
+sg9
+I0
+sg10
+S'Disul de vitin, mitin mad'
+p603
+ssI149
+(dp604
+g3
+I305
+sg4
+S'diviz_diwar_benn_an_dimezin'
+p605
+sg6
+S'Conversation au sujet du mariage'
+p606
+sg8
+I149
+sg9
+I0
+sg10
+S'Diviz diwar-benn an dimezi\xf1'
+p607
+ssI150
+(dp608
+g3
+I204
+sg4
+S'diviz_etre_ur_vamm_hag_he_merc_h'
+p609
+sg6
+S'Dissentiment entre une m\xe8re et sa fille'
+p610
+sg8
+I150
+sg9
+I0
+sg10
+S"Diviz etre ur vamm hag he merc'h"
+p611
+ssI151
+(dp612
+g3
+I313
+sg4
+S'diviz_etre_ur_vamm_hag_he_merc_h_abalamour_d_an_dimezin'
+p613
+sg6
+S'Dissentiment entre une m\xe8re et sa fille \xe0 cause du mariage'
+p614
+sg8
+I151
+sg9
+I0
+sg10
+S"Diviz etre ur vamm hag he merc'h abalamour d'an dimezi\xf1"
+p615
+ssI152
+(dp616
+g3
+I208
+sg4
+S'diviz_evit_goulenn'
+p617
+sg6
+S'Dispute pour demander une jeune fille en mariage'
+p618
+sg8
+I152
+sg9
+I1
+sg10
+S"Diviz evit goulenn ur plac'h yaouank da eureuji\xf1"
+p619
+ssI153
+(dp620
+g3
+I375
+sg4
+S'dom_yann_derrien_1'
+p621
+sg6
+S'Dom Jean Derrien (1)'
+p622
+sg8
+I153
+sg9
+I1
+sg10
+S'Dom Yann Derrien (1)'
+p623
+ssI154
+(dp624
+g3
+I330
+sg4
+S'dom_yann_derrien_2'
+p625
+sg6
+S'Dom Jean Derrien (2)'
+p626
+sg8
+I154
+sg9
+I1
+sg10
+S'Dom Yann Derrien (2)'
+p627
+ssI155
+(dp628
+g3
+I285
+sg4
+S'drougkinnig_neumenoiou'
+p629
+sg6
+S'Le tribut de Nomino\xeb'
+p630
+sg8
+I155
+sg9
+I1
+sg10
+S'Drougkinnig Neumenoiou'
+p631
+ssI156
+(dp632
+g3
+I354
+sg4
+S'e_koad_ker_yann'
+p633
+sg6
+S'Au bois de K\xear-Yann'
+p634
+sg8
+I156
+sg9
+I2
+sg10
+S'E koad K\xear-Yann'
+p635
+ssI157
+(dp636
+g3
+I225
+sg4
+S'emgann_sant_kast'
+p637
+sg6
+S'Le combat de Saint-Cast'
+p638
+sg8
+I157
+sg9
+I1
+sg10
+S'Emgann Sant-Kast'
+p639
+ssI158
+(dp640
+g3
+I304
+sg4
+S'emzivadez_lannuon'
+p641
+sg6
+S"L'orpheline de Lannion"
+p642
+sg8
+I158
+sg9
+I1
+sg10
+S'Emzivadez Lannuon'
+p643
+ssI159
+(dp644
+g3
+I352
+sg4
+S'en_nevez_hanv'
+p645
+sg6
+S'Le printemps'
+p646
+sg8
+I159
+sg9
+I0
+sg10
+S'En nevez-ha\xf1v'
+p647
+ssI160
+(dp648
+g3
+I384
+sg4
+S'en_tu_all_d_ar_mor_don'
+p649
+sg6
+S"De l'autre c\xf4t\xe9 de la mer profonde"
+p650
+sg8
+I160
+sg9
+I0
+sg10
+S"En tu all d'ar mor don"
+p651
+ssI161
+(dp652
+g3
+I326
+sg4
+S'ened_rosporden'
+p653
+sg6
+S'Le carnaval de Rosporden'
+p654
+sg8
+I161
+sg9
+I1
+sg10
+S'Ened Rosporden'
+p655
+ssI162
+(dp656
+g3
+I263
+sg4
+S'enezenn_gaer'
+p657
+sg6
+S'Belle \xeele'
+p658
+sg8
+I162
+sg9
+I0
+sg10
+S'Enezenn gaer'
+p659
+ssI163
+(dp660
+g3
+I291
+sg4
+S'enig_bihan_er_hoed'
+p661
+sg6
+S'Petit oiseau du bois'
+p662
+sg8
+I163
+sg9
+I0
+sg10
+S'Enig bihan er hoed'
+p663
+ssI164
+(dp664
+g3
+I391
+sg4
+S'langonned'
+p665
+sg6
+S'Dans la parroisse de Langonnet'
+p666
+sg8
+I164
+sg9
+I1
+sg10
+S'E parrez Langonned'
+p667
+ssI165
+(dp668
+g3
+I217
+sg4
+S'er_bugul'
+p669
+sg6
+S'Le p\xe2tre'
+p670
+sg8
+I165
+sg9
+I0
+sg10
+S'Er bugul'
+p671
+ssI166
+(dp672
+g3
+I291
+sg4
+S'er_galant_fal_zigemeret'
+p673
+sg6
+S"L'amoureux \xe9conduit"
+p674
+sg8
+I166
+sg9
+I0
+sg10
+S'Er galant fal zigemeret'
+p675
+ssI167
+(dp676
+g3
+I272
+sg4
+S'er_miloerieu_argant'
+p677
+sg6
+S"Les miroirs d'argent"
+p678
+sg8
+I167
+sg9
+I0
+sg10
+S'Er milo\xe9rieu argant'
+p679
+ssI168
+(dp680
+g3
+I339
+sg4
+S'er_sabotier'
+p681
+sg6
+S'Le sabotier'
+p682
+sg8
+I168
+sg9
+I0
+sg10
+S'Er sabotier'
+p683
+ssI169
+(dp684
+g3
+I232
+sg4
+S'er_voraerion'
+p685
+sg6
+S'Les marins'
+p686
+sg8
+I169
+sg9
+I1
+sg10
+S'Er voraerion'
+p687
+ssI170
+(dp688
+g3
+I397
+sg4
+S'fal_zimeet'
+p689
+sg6
+S'Mal mari\xe9e'
+p690
+sg8
+I170
+sg9
+I0
+sg10
+S'Fal zim\xe9et'
+p691
+ssI171
+(dp692
+g3
+I240
+sg4
+S'fanchig_morvan'
+p693
+sg6
+S'Fran\xe7ois Morvan'
+p694
+sg8
+I171
+sg9
+I1
+sg10
+S'Fanchig Morvan'
+p695
+ssI172
+(dp696
+g3
+I339
+sg4
+S'ficha_logodenn'
+p697
+sg6
+S"La souris qui s'agite"
+p698
+sg8
+I172
+sg9
+I2
+sg10
+S'Ficha logodenn'
+p699
+ssI173
+(dp700
+g3
+I309
+sg4
+S'filhorez_an_aotrou_gwesklen'
+p701
+sg6
+S'La filleule de Du Guesclin'
+p702
+sg8
+I173
+sg9
+I1
+sg10
+S'Filhorez an Aotrou Gwesklen'
+p703
+ssI174
+(dp704
+g3
+I328
+sg4
+S'floc_h_loeiz_trizek'
+p705
+sg6
+S'Le page de Louis XIII'
+p706
+sg8
+I174
+sg9
+I1
+sg10
+S"Floc'h Loeiz Trizek"
+p707
+ssI175
+(dp708
+g3
+I339
+sg4
+S'fontanellan'
+p709
+sg6
+S'La Fontenelle'
+p710
+sg8
+I175
+sg9
+I1
+sg10
+S'Fontanellan'
+p711
+ssI176
+(dp712
+g3
+I334
+sg4
+S'fransez'
+p713
+sg6
+S"C'est Fran\xe7ois"
+p714
+sg8
+I176
+sg9
+I0
+sg10
+S"'Ma\xf1 Fransez"
+p715
+ssI177
+(dp716
+g3
+I323
+sg4
+S'garan_ar_briz_1'
+p717
+sg6
+S'Garan Le Briz (1)'
+p718
+sg8
+I177
+sg9
+I1
+sg10
+S'Garan ar Briz (1)'
+p719
+ssI178
+(dp720
+g3
+I281
+sg4
+S'garan_ar_briz_2'
+p721
+sg6
+S'Garan Le Briz (2)'
+p722
+sg8
+I178
+sg9
+I1
+sg10
+S'Garan ar Briz (2)'
+p723
+ssI179
+(dp724
+g3
+I320
+sg4
+S'garan_ar_briz_3'
+p725
+sg6
+S'Garan Le Briz (3)'
+p726
+sg8
+I179
+sg9
+I1
+sg10
+S'Garan ar Briz (3)'
+p727
+ssI180
+(dp728
+g3
+I227
+sg4
+S'gavrig_an_hanv'
+p729
+sg6
+S'La b\xe9cassine'
+p730
+sg8
+I180
+sg9
+I0
+sg10
+S'Gavrig an ha\xf1v'
+p731
+ssI181
+(dp732
+g3
+I271
+sg4
+S'glahar_a_garante'
+p733
+sg6
+S"Chagrin d'amour"
+p734
+sg8
+I181
+sg9
+I1
+sg10
+S'Glahar a garant\xe9'
+p735
+ssI182
+(dp736
+g3
+I323
+sg4
+S'glau_hag_auel_e_hra'
+p737
+sg6
+S'Il pleut et il vente'
+p738
+sg8
+I182
+sg9
+I0
+sg10
+S'Gla\xf9 hag a\xf9\xe9l e hra'
+p739
+ssI183
+(dp740
+g3
+I322
+sg4
+S'grasou_mat'
+p741
+sg6
+S'Bonnes gr\xe2ces Pierre'
+p742
+sg8
+I183
+sg9
+I0
+sg10
+S'Graso\xf9 mat Pier'
+p743
+ssI184
+(dp744
+g3
+I224
+sg4
+S'guillaouic_calve'
+p745
+sg6
+S'Guillaume Calvez'
+p746
+sg8
+I184
+sg9
+I1
+sg10
+S'Guillaouic Calve'
+p747
+ssI185
+(dp748
+g3
+I241
+sg4
+S'gwall_vuhez_un_tiegezh'
+p749
+sg6
+S'Sc\xe8ne de famille'
+p750
+sg8
+I185
+sg9
+I0
+sg10
+S'Gwall vuhez un tiegezh'
+p751
+ssI186
+(dp752
+g3
+I357
+sg4
+S'gwaz_aotrou_gwesklen'
+p753
+sg6
+S'Le vassal de Du Guesclin'
+p754
+sg8
+I186
+sg9
+I1
+sg10
+S'Gwaz Aotrou Gwesklen'
+p755
+ssI187
+(dp756
+g3
+I265
+sg4
+S'gwerz_an_anaon'
+p757
+sg6
+S'La Ballade des Tr\xe9pass\xe9s'
+p758
+sg8
+I187
+sg9
+I1
+sg10
+S'Gwerz an Anaon'
+p759
+ssI188
+(dp760
+g3
+I348
+sg4
+S'gwerz_ar_basajerez'
+p761
+sg6
+S'Complainte de la Passeuse'
+p762
+sg8
+I188
+sg9
+I1
+sg10
+S'Gwerz ar basajerez'
+p763
+ssI189
+(dp764
+g3
+I246
+sg4
+S'gwerz_ar_c_hloareg_yaouank'
+p765
+sg6
+S'Complainte du jeune clerc'
+p766
+sg8
+I189
+sg9
+I1
+sg10
+S"Gwerz ar c'hloareg yaouank"
+p767
+ssI190
+(dp768
+g3
+I345
+sg4
+S'gwerz_ar_vechantez'
+p769
+sg6
+S'Complainte de la m\xe9chante'
+p770
+sg8
+I190
+sg9
+I1
+sg10
+S'Gwerz ar vechantez'
+p771
+ssI191
+(dp772
+g3
+I242
+sg4
+S'gwerz_chapel_lochrist_an_izelvet'
+p773
+sg6
+S'Complainte sur la Chapelle de Lochrist Izelvet'
+p774
+sg8
+I191
+sg9
+I1
+sg10
+S'Gwerz Chapel Lochrist an Izelvet'
+p775
+ssI192
+(dp776
+g3
+I229
+sg4
+S'gwerz_gaidig_ar_goaz'
+p777
+sg6
+S'Complainte de Marguerite Le Goaz'
+p778
+sg8
+I192
+sg9
+I1
+sg10
+S'Gwerz Gaidig ar Goaz'
+p779
+ssI193
+(dp780
+g3
+I308
+sg4
+S'gwerz_janed_ar_mareg'
+p781
+sg6
+S'Complainte de Jeannette Le Marec'
+p782
+sg8
+I193
+sg9
+I1
+sg10
+S'Gwerz Janed ar Mareg'
+p783
+ssI194
+(dp784
+g3
+I213
+sg4
+S'gwerz_ker_is'
+p785
+sg6
+S"Complainte de la ville d'Ys"
+p786
+sg8
+I194
+sg9
+I1
+sg10
+S'Gwerz K\xear Is'
+p787
+ssI195
+(dp788
+g3
+I328
+sg4
+S'gwerz_leskildri_pe_fantig_pikard'
+p789
+sg6
+S'Complainte de Leskildry ou de Fran\xe7oise Picard'
+p790
+sg8
+I195
+sg9
+I1
+sg10
+S'Gwerz Leskildri pe Fantig Pikard'
+p791
+ssI196
+(dp792
+g3
+I384
+sg4
+S'gwerz_madalen_grocher'
+p793
+sg6
+S'Complainte de Madeleine Grocher'
+p794
+sg8
+I196
+sg9
+I1
+sg10
+S'Gwerz Madalen Grocher'
+p795
+ssI197
+(dp796
+g3
+I389
+sg4
+S'gwerz_mari_mason'
+p797
+sg6
+S'Complainte de Marie Masson'
+p798
+sg8
+I197
+sg9
+I1
+sg10
+S'Gwerz Mari Mason'
+p799
+ssI198
+(dp800
+g3
+I291
+sg4
+S'gwerz_marivonig'
+p801
+sg6
+S'La Complainte de Maryvonne'
+p802
+sg8
+I198
+sg9
+I1
+sg10
+S'Gwerz Marivonig'
+p803
+ssI199
+(dp804
+g3
+I294
+sg4
+S'gwerz_marivonig_2'
+p805
+sg6
+S'La Complainte de Maryvonne'
+p806
+sg8
+I199
+sg9
+I1
+sg10
+S'Gwerz Marivonig (2)'
+p807
+ssI200
+(dp808
+g3
+I318
+sg4
+S'gwerz_markiz_trezegidi'
+p809
+sg6
+S'Complainte du Marquis de Tr\xe9z\xe9guidy'
+p810
+sg8
+I200
+sg9
+I1
+sg10
+S'Gwerz Markiz Trezegidi'
+p811
+ssI201
+(dp812
+g3
+I251
+sg4
+S'gwerz_penmarc_h'
+p813
+sg6
+S"La Ballade de Penmarc'h"
+p814
+sg8
+I201
+sg9
+I1
+sg10
+S"Gwerz Penmarc'h"
+p815
+ssI202
+(dp816
+g3
+I343
+sg4
+S'gwerz_plomadeg_kerlosket'
+p817
+sg6
+S"Complainte de l'\xe9cobue de Kerlosket"
+p818
+sg8
+I202
+sg9
+I1
+sg10
+S'Gwerz Plomadeg Kerlosket'
+p819
+ssI203
+(dp820
+g3
+I317
+sg4
+S'gwerz_tomazig_ar_gow'
+p821
+sg6
+S'Complainte de Thomas Le Goff'
+p822
+sg8
+I203
+sg9
+I1
+sg10
+S'Gwerz Tomazig ar Gow'
+p823
+ssI204
+(dp824
+g3
+I236
+sg4
+S'gwerz_ur_plac_h_yaouank_touellet'
+p825
+sg6
+S"Complainte d'une jeune fille tromp\xe9e"
+p826
+sg8
+I204
+sg9
+I1
+sg10
+S"Gwerz ur plac'h yaouank touellet"
+p827
+ssI205
+(dp828
+g3
+I393
+sg4
+S'gwin_c_hallaoued'
+p829
+sg6
+S'Le vin des Fran\xe7ais'
+p830
+sg8
+I205
+sg9
+I1
+sg10
+S"Gwin ar C'hallaoued"
+p831
+ssI206
+(dp832
+g3
+I386
+sg4
+S'gwir_vretoned'
+p833
+sg6
+S'Vrais Bretons'
+p834
+sg8
+I206
+sg9
+I0
+sg10
+S'Gwir Vretoned'
+p835
+ssI207
+(dp836
+g3
+I398
+sg4
+S'gwreg_ar_c_hroazour'
+p837
+sg6
+S"L'\xe9pouse du Crois\xe9"
+p838
+sg8
+I207
+sg9
+I1
+sg10
+S"Gwreg ar C'hroazour"
+p839
+ssI208
+(dp840
+g3
+I293
+sg4
+S'ha_pa_zimezin_me'
+p841
+sg6
+S'Et quand je me marierai'
+p842
+sg8
+I208
+sg9
+I0
+sg10
+S'Ha pa zimezin-me'
+p843
+ssI209
+(dp844
+g3
+I269
+sg4
+S'ha_penaos_ober_krampouezh'
+p845
+sg6
+S'Et comment faire des cr\xeapes ?'
+p846
+sg8
+I209
+sg9
+I0
+sg10
+S'Ha penaos ober krampouezh'
+p847
+ssI210
+(dp848
+g3
+I281
+sg4
+S'hirvoudou'
+p849
+sg6
+S'G\xe9missements'
+p850
+sg8
+I210
+sg9
+I0
+sg10
+S'Hirvoudo\xf9'
+p851
+ssI211
+(dp852
+g3
+I342
+sg4
+S'iann_nikolas'
+p853
+sg6
+S'Jean Nicolas'
+p854
+sg8
+I211
+sg9
+I0
+sg10
+S'Iann Nikolas'
+p855
+ssI212
+(dp856
+g3
+I221
+sg4
+S'iannik_ar_bon_garcon'
+p857
+sg6
+S'Yannik le Bon Gar\xe7on'
+p858
+sg8
+I212
+sg9
+I1
+sg10
+S'Iannik ar Bon-Gar\xe7on'
+p859
+ssI213
+(dp860
+g3
+I364
+sg4
+S'iannik_skolan_1'
+p861
+sg6
+S'Jean Scolan (1)'
+p862
+sg8
+I213
+sg9
+I1
+sg10
+S'Iannik Skolan (1)'
+p863
+ssI214
+(dp864
+g3
+I384
+sg4
+S'iannik_skolan_2'
+p865
+sg6
+S'Jean Scolan (2)'
+p866
+sg8
+I214
+sg9
+I1
+sg10
+S'Iannik Skolan (2)'
+p867
+ssI215
+(dp868
+g3
+I326
+sg4
+S'itron_ar_faouet'
+p869
+sg6
+S'La dame du Faouet'
+p870
+sg8
+I215
+sg9
+I1
+sg10
+S'Itron ar Faouet'
+p871
+ssI216
+(dp872
+g3
+I287
+sg4
+S'itron_varia_folgoat'
+p873
+sg6
+S'Notre-Dame du Folgoat'
+p874
+sg8
+I216
+sg9
+I1
+sg10
+S'Itron Varia Folgoat'
+p875
+ssI217
+(dp876
+g3
+I201
+sg4
+S'iwan_gamus'
+p877
+sg6
+S'Ivan Camus'
+p878
+sg8
+I217
+sg9
+I1
+sg10
+S'Iwan Gamus'
+p879
+ssI218
+(dp880
+g3
+I375
+sg4
+S'jan_farloutig'
+p881
+sg6
+S'Jean Farloutig'
+p882
+sg8
+I218
+sg9
+I0
+sg10
+S'Ja\xf1 Farloutig <i class="danse">Gavotte d\'Hanvec</i>'
+p883
+ssI219
+(dp884
+g3
+I210
+sg4
+S'janed_ar_wern_1'
+p885
+sg6
+S'Jeanne le Guern (1)'
+p886
+sg8
+I219
+sg9
+I1
+sg10
+S'Janed ar Wern (1)'
+p887
+ssI220
+(dp888
+g3
+I275
+sg4
+S'janed_ar_wern_2'
+p889
+sg6
+S'Jeanne le Guern (2)'
+p890
+sg8
+I220
+sg9
+I1
+sg10
+S'Janed ar Wern (2)'
+p891
+ssI221
+(dp892
+g3
+I235
+sg4
+S'janedig_ar_sorserez_1'
+p893
+sg6
+S'Jeanne la Sorci\xe8re (1)'
+p894
+sg8
+I221
+sg9
+I1
+sg10
+S'Janedig ar Sorserez (1)'
+p895
+ssI222
+(dp896
+g3
+I241
+sg4
+S'janedig_ar_sorserez_2'
+p897
+sg6
+S'Jeanne la Sorci\xe8re (2)'
+p898
+sg8
+I222
+sg9
+I1
+sg10
+S'Janedig ar Sorserez (2)'
+p899
+ssI223
+(dp900
+g3
+I395
+sg4
+S'janedig_flamm'
+p901
+sg6
+S'Jeanne-la-Flamme'
+p902
+sg8
+I223
+sg9
+I1
+sg10
+S'Janedig flamm'
+p903
+ssI224
+(dp904
+g3
+I317
+sg4
+S'jannig_lukaz'
+p905
+sg6
+S'Jeannette Lucas'
+p906
+sg8
+I224
+sg9
+I1
+sg10
+S'Jannig Lukaz'
+p907
+ssI225
+(dp908
+g3
+I392
+sg4
+S'jenovefa_rustefan'
+p909
+sg6
+S'Genevi\xe8ve de Rust\xe9fan'
+p910
+sg8
+I225
+sg9
+I1
+sg10
+S'Jenovefa Rustefan'
+p911
+ssI226
+(dp912
+g3
+I278
+sg4
+S'kabiten'
+p913
+sg6
+S'Le capitaine de Saint-Malo'
+p914
+sg8
+I226
+sg9
+I0
+sg10
+S'Kabiten Sant Malo\xf9'
+p915
+ssI227
+(dp916
+g3
+I356
+sg4
+S'kadoudal'
+p917
+sg6
+S'La marche de Cadoudal'
+p918
+sg8
+I227
+sg9
+I1
+sg10
+S'Bale Kadoudal'
+p919
+ssI228
+(dp920
+g3
+I259
+sg4
+S'kalonou_rannet'
+p921
+sg6
+S'Coeurs bris\xe9s'
+p922
+sg8
+I228
+sg9
+I1
+sg10
+S'Kalono\xf9 rannet'
+p923
+ssI229
+(dp924
+g3
+I361
+sg4
+S'kan_an_eginane'
+p925
+sg6
+S"Chant de l'Eguinan\xe9"
+p926
+sg8
+I229
+sg9
+I0
+sg10
+S'Kan an eginane'
+p927
+ssI230
+(dp928
+g3
+I386
+sg4
+S'kan_ar_vartoloded'
+p929
+sg6
+S'Le chant des matelots'
+p930
+sg8
+I230
+sg9
+I1
+sg10
+S'Kan ar vartoloded'
+p931
+ssI231
+(dp932
+g3
+I222
+sg4
+S'kan_bale_tud_breiz'
+p933
+sg6
+S'Chant de marche des hommes de Bretagne'
+p934
+sg8
+I231
+sg9
+I0
+sg10
+S'Kan-bale tud Breiz'
+p935
+ssI232
+(dp936
+g3
+I243
+sg4
+S'kanaouenn_al_levier'
+p937
+sg6
+S'La chanson du pilote'
+p938
+sg8
+I232
+sg9
+I0
+sg10
+S'Kanaouenn al levier'
+p939
+ssI233
+(dp940
+g3
+I360
+sg4
+S'kanaouenn_an_dud_a_vor'
+p941
+sg6
+S'Chanson des matelots'
+p942
+sg8
+I233
+sg9
+I0
+sg10
+S'Kanaouenn an dud a vor'
+p943
+ssI234
+(dp944
+g3
+I217
+sg4
+S'kanaouenn_soudard'
+p945
+sg6
+S'Chanson de soldat'
+p946
+sg8
+I234
+sg9
+I1
+sg10
+S'Kanaouenn soudard'
+p947
+ssI235
+(dp948
+g3
+I399
+sg4
+S'kanaouenn_war_ar_maez'
+p949
+sg6
+S'Chanson pastorale'
+p950
+sg8
+I235
+sg9
+I0
+sg10
+S'Kanaouenn war ar maez'
+p951
+ssI236
+(dp952
+g3
+I263
+sg4
+S'kantikou/a_hed_an_noz'
+p953
+sg6
+S'Au long de la nuit'
+p954
+sg8
+I236
+sg9
+I3
+sg10
+S'A-hed an noz'
+p955
+ssI237
+(dp956
+g3
+I317
+sg4
+S'kantikou/a_vreman_betek_ar_marv'
+p957
+sg6
+S"De maintenant jusqu'\xe0 la mort"
+p958
+sg8
+I237
+sg9
+I3
+sg10
+S'A-vrema\xf1 betek ar marv'
+p959
+ssI238
+(dp960
+g3
+I324
+sg4
+S'kantikou/adoromp_holl'
+p961
+sg6
+S'Adorons tous'
+p962
+sg8
+I238
+sg9
+I3
+sg10
+S'Adoromp holl'
+p963
+ssI239
+(dp964
+g3
+I252
+sg4
+S'kantikou/aman_pell_diouzh_an_trouz'
+p965
+sg6
+S'Ici loin du bruit'
+p966
+sg8
+I239
+sg9
+I3
+sg10
+S'Ama\xf1 pell diouzh an trouz'
+p967
+ssI240
+(dp968
+g3
+I289
+sg4
+S'kantikou/an_anjeluz'
+p969
+sg6
+S"L'Anjelus - temps ordinaire"
+p970
+sg8
+I240
+sg9
+I3
+sg10
+S'An Anjeluz - amzer ordinal'
+p971
+ssI241
+(dp972
+g3
+I261
+sg4
+S'kantikou/an_anjeluz_amzer_fask'
+p973
+sg6
+S"L'Anjelus - temps de P\xe2ques"
+p974
+sg8
+I241
+sg9
+I3
+sg10
+S'An Anjeluz - amzer Fask'
+p975
+ssI242
+(dp976
+g3
+I334
+sg4
+S'kantikou/an_anjeluz_amzer_fask_2eme_air'
+p977
+sg6
+S"L'Anjelus - temps de P\xe2ques - 2\xe8me air"
+p978
+sg8
+I242
+sg9
+I3
+sg10
+S'An Anjeluz - amzer Fask - 2\xe8me air'
+p979
+ssI243
+(dp980
+g3
+I270
+sg4
+S'kantikou/an_anjeluz_amzer_nedeleg'
+p981
+sg6
+S"L'Anjelus - temps de l'Avent"
+p982
+sg8
+I243
+sg9
+I3
+sg10
+S'An Anjeluz - amzer Nedeleg'
+p983
+ssI244
+(dp984
+g3
+I252
+sg4
+S'kantikou/an_ifern'
+p985
+sg6
+S"L'enfer"
+p986
+sg8
+I244
+sg9
+I3
+sg10
+S'An ifern'
+p987
+ssI245
+(dp988
+g3
+I277
+sg4
+S'kantikou/aotrou_ra_vimp_unvan'
+p989
+sg6
+S'Seigneur, que nous soyons unis'
+p990
+sg8
+I245
+sg9
+I3
+sg10
+S'Aotrou, ra vimp unvan'
+p991
+ssI246
+(dp992
+g3
+I215
+sg4
+S'kantikou/ar_baradoz'
+p993
+sg6
+S'Le paradis'
+p994
+sg8
+I246
+sg9
+I3
+sg10
+S'Ar baradoz'
+p995
+ssI247
+(dp996
+g3
+I262
+sg4
+S'kantikou/ar_baradoz_bourgault_ducoudray'
+p997
+sg6
+S'Le paradis'
+p998
+sg8
+I247
+sg9
+I3
+sg10
+S'Ar baradoz (Bourgault-Ducoudray)'
+p999
+ssI248
+(dp1000
+g3
+I388
+sg4
+S'kantikou/ar_bed_holl_an_aotrou_a_gan'
+p1001
+sg6
+S'Le monde entier chante le Seigneur'
+p1002
+sg8
+I248
+sg9
+I3
+sg10
+S'Ar bed-holl, an Aotrou a gan'
+p1003
+ssI249
+(dp1004
+g3
+I320
+sg4
+S'kantikou/ar_purgator'
+p1005
+sg6
+S'Le purgatoire'
+p1006
+sg8
+I249
+sg9
+I3
+sg10
+S'Ar purgator'
+p1007
+ssI250
+(dp1008
+g3
+I337
+sg4
+S'kantikou/baradoz_dudius'
+p1009
+sg6
+S'Paradis merveilleux'
+p1010
+sg8
+I250
+sg9
+I3
+sg10
+S'Baradoz dudius'
+p1011
+ssI251
+(dp1012
+g3
+I277
+sg4
+S'kantikou/breizhiz_kouezhomp_d_an_daoulin'
+p1013
+sg6
+S'Bretons, tombons \xe0 genoux'
+p1014
+sg8
+I251
+sg9
+I1
+sg10
+S"Breizhiz, kouezhomp d'an daoulin"
+p1015
+ssI252
+(dp1016
+g3
+I211
+sg4
+S'kantikou/buhez_sant_ronan'
+p1017
+sg6
+S'La l\xe9gende de St Ronan'
+p1018
+sg8
+I252
+sg9
+I3
+sg10
+S'Buhez Sant Ronan'
+p1019
+ssI253
+(dp1020
+g3
+I232
+sg4
+S'kantikou/c_hwi_eo_aotrou_zo_hor_joa'
+p1021
+sg6
+S"C'est vous, Seigneur, notre joie"
+p1022
+sg8
+I253
+sg9
+I3
+sg10
+S"C'hwi eo, Aotrou, zo hor joa"
+p1023
+ssI254
+(dp1024
+g3
+I231
+sg4
+S'kantikou/chapeled_a_joa'
+p1025
+sg6
+S'Chapelet de joie'
+p1026
+sg8
+I254
+sg9
+I3
+sg10
+S'Chapeled a joa'
+p1027
+ssI255
+(dp1028
+g3
+I302
+sg4
+S'kantikou/d_hor_mamm_santez_anna'
+p1029
+sg6
+S'A notre m\xe8re Sainte Anne'
+p1030
+sg8
+I255
+sg9
+I3
+sg10
+S"D'hor Mamm Santez Anna"
+p1031
+ssI256
+(dp1032
+g3
+I313
+sg4
+S'kantikou/da_feiz_hon_tadou_kozh'
+p1033
+sg6
+S'A la foi de nos anc\xeatres'
+p1034
+sg8
+I256
+sg9
+I3
+sg10
+S'Da feiz hon tado\xf9 kozh'
+p1035
+ssI257
+(dp1036
+g3
+I348
+sg4
+S'kantikou/dalc_hit_sonj_mat'
+p1037
+sg6
+S'Rappelez-vous bien'
+p1038
+sg8
+I257
+sg9
+I3
+sg10
+S"Dalc'hit so\xf1j mat"
+p1039
+ssI258
+(dp1040
+g3
+I256
+sg4
+S'kantikou/deuit_holl_da_veulin_an_aotrou'
+p1041
+sg6
+S'Venez tous louer le Seigneur'
+p1042
+sg8
+I258
+sg9
+I3
+sg10
+S'Deuit holl da veuli\xf1 an Aotrou'
+p1043
+ssI259
+(dp1044
+g3
+I292
+sg4
+S'kantikou/deuit_va_doue'
+p1045
+sg6
+S'Venez, mon Dieu'
+p1046
+sg8
+I259
+sg9
+I3
+sg10
+S'Deuit, va Doue'
+p1047
+ssI260
+(dp1048
+g3
+I201
+sg4
+S'kantikou/doue_gwir_bried'
+p1049
+sg6
+S'Dieu, vrai \xe9poux'
+p1050
+sg8
+I260
+sg9
+I3
+sg10
+S'Doue gwir bried'
+p1051
+ssI261
+(dp1052
+g3
+I360
+sg4
+S'kantikou/drinded_santel'
+p1053
+sg6
+S'Sainte Trinit\xe9'
+p1054
+sg8
+I261
+sg9
+I3
+sg10
+S'Drinded santel'
+p1055
+ssI262
+(dp1056
+g3
+I296
+sg4
+S'kantikou/enor_ha_gloar'
+p1057
+sg6
+S'Honneur et gloire'
+p1058
+sg8
+I262
+sg9
+I3
+sg10
+S'Enor ha gloar'
+p1059
+ssI263
+(dp1060
+g3
+I225
+sg4
+S'kantikou/eurus_an_hini'
+p1061
+sg6
+S'Heureux celui'
+p1062
+sg8
+I263
+sg9
+I3
+sg10
+S'E\xfcrus an hini'
+p1063
+ssI264
+(dp1064
+g3
+I385
+sg4
+S'kantikou/evit_bevan_gant_levenez1'
+p1065
+sg6
+S'Pour vivre dans la joie (1)'
+p1066
+sg8
+I264
+sg9
+I3
+sg10
+S'Evit beva\xf1 gant levenez (1)'
+p1067
+ssI265
+(dp1068
+g3
+I321
+sg4
+S'kantikou/evit_bevan_gant_levenez2'
+p1069
+sg6
+S'Pour vivre dans la joie (2)'
+p1070
+sg8
+I265
+sg9
+I3
+sg10
+S'Evit beva\xf1 gant levenez (2)'
+p1071
+ssI266
+(dp1072
+g3
+I235
+sg4
+S'kantikou/gloer_de_vari'
+p1073
+sg6
+S'Gloire \xe0 Marie'
+p1074
+sg8
+I266
+sg9
+I3
+sg10
+S'Glo\xe9r de Vari'
+p1075
+ssI267
+(dp1076
+g3
+I240
+sg4
+S'kantikou/gouelit_va_daoulagad'
+p1077
+sg6
+S'Pleurez mes yeux'
+p1078
+sg8
+I267
+sg9
+I3
+sg10
+S'Gouelit va daoulagad'
+p1079
+ssI268
+(dp1080
+g3
+I223
+sg4
+S'kantikou/gwerz_itron_varia_gwirvane'
+p1081
+sg6
+S'Complainte de Notre-Dame de Gwirman\xe9'
+p1082
+sg8
+I268
+sg9
+I3
+sg10
+S'Gwerz Itron Varia Gwirvane'
+p1083
+ssI269
+(dp1084
+g3
+I278
+sg4
+S'kantikou/gwir_vugale_ar_werc_hez'
+p1085
+sg6
+S'Vrais enfants de la Vierge'
+p1086
+sg8
+I269
+sg9
+I3
+sg10
+S"Gwir vugale ar Werc'hez"
+p1087
+ssI270
+(dp1088
+g3
+I230
+sg4
+S'kantikou/hon_tad_hag_a_zo_en_nenv'
+p1089
+sg6
+S'Notre P\xe8re qui \xeates aux cieux'
+p1090
+sg8
+I270
+sg9
+I3
+sg10
+S'Hon Tad hag a zo en Ne\xf1v'
+p1091
+ssI271
+(dp1092
+g3
+I364
+sg4
+S'kantikou/itron_santez_anna'
+p1093
+sg6
+S'Dame Sainte Anne'
+p1094
+sg8
+I271
+sg9
+I3
+sg10
+S'Itron Santez Anna'
+p1095
+ssI272
+(dp1096
+g3
+I296
+sg4
+S'kantikou/intron_santez_anna'
+p1097
+sg6
+S'Dame Sainte Anne'
+p1098
+sg8
+I272
+sg9
+I3
+sg10
+S'Intron Santez Anna'
+p1099
+ssI273
+(dp1100
+g3
+I251
+sg4
+S'kantikou/itron_varia_rumengol'
+p1101
+sg6
+S'Notre-Dame de Rumengol'
+p1102
+sg8
+I273
+sg9
+I3
+sg10
+S'Itron Varia Rumengol'
+p1103
+ssI274
+(dp1104
+g3
+I251
+sg4
+S'kantikou/jezuz_pegen_bras_eo'
+p1105
+sg6
+S'J\xe9sus, comme il est grand'
+p1106
+sg8
+I274
+sg9
+I3
+sg10
+S'Jezuz, pegen bras eo'
+p1107
+ssI275
+(dp1108
+g3
+I339
+sg4
+S'kantikou/jezuz_zo_diskennet'
+p1109
+sg6
+S'J\xe9sus est descendu'
+p1110
+sg8
+I275
+sg9
+I3
+sg10
+S'Jezuz zo diskennet'
+p1111
+ssI276
+(dp1112
+g3
+I246
+sg4
+S'kantikou/kalon_dinamm_mari'
+p1113
+sg6
+S'Coeur tr\xe8s pur de Marie'
+p1114
+sg8
+I276
+sg9
+I3
+sg10
+S'Kalon dinamm Mari'
+p1115
+ssI277
+(dp1116
+g3
+I355
+sg4
+S'kantikou/kanaouenn_an_anaon'
+p1117
+sg6
+S'Le chant des Tr\xe9pass\xe9s'
+p1118
+sg8
+I277
+sg9
+I3
+sg10
+S'Kanaouenn an Anaon'
+p1119
+ssI278
+(dp1120
+g3
+I265
+sg4
+S'kantikou/kanomp_doue'
+p1121
+sg6
+S'Chantons Dieu'
+p1122
+sg8
+I278
+sg9
+I3
+sg10
+S'Kanomp Doue'
+p1123
+ssI279
+(dp1124
+g3
+I338
+sg4
+S'kantikou/kantig_itron_varia_c_hras_pluskelleg'
+p1125
+sg6
+S'Cantique de Notre-Dame de Gr\xe2ce de Plusquellec'
+p1126
+sg8
+I279
+sg9
+I3
+sg10
+S"Kantig Itron Varia C'hras Pluskelleg"
+p1127
+ssI280
+(dp1128
+g3
+I257
+sg4
+S'kantikou/kantig_itron_varia_kergloff'
+p1129
+sg6
+S'Cantique de Notre-Dame du Bon Secours de Kergloff'
+p1130
+sg8
+I280
+sg9
+I3
+sg10
+S'Kantig Itron Varia Kergloff'
+p1131
+ssI281
+(dp1132
+g3
+I387
+sg4
+S'kantikou/kantig_war_ar_gomunion'
+p1133
+sg6
+S'Cantique pour la communion'
+p1134
+sg8
+I281
+sg9
+I3
+sg10
+S'Kantig war ar gomunion'
+p1135
+ssI282
+(dp1136
+g3
+I256
+sg4
+S'kantikou/kemerit_va_doue'
+p1137
+sg6
+S'Recevez, mon Dieu'
+p1138
+sg8
+I282
+sg9
+I3
+sg10
+S'Kemerit, va Doue'
+p1139
+ssI283
+(dp1140
+g3
+I292
+sg4
+S'kantikou/kimiad_an_ene'
+p1141
+sg6
+S"Le d\xe9part de l'\xe2me"
+p1142
+sg8
+I283
+sg9
+I3
+sg10
+S'Kimiad an ene'
+p1143
+ssI284
+(dp1144
+g3
+I346
+sg4
+S'kantikou/kinnigomp_holl'
+p1145
+sg6
+S'Offrons tous'
+p1146
+sg8
+I284
+sg9
+I3
+sg10
+S'Kinnigomp holl'
+p1147
+ssI285
+(dp1148
+g3
+I236
+sg4
+S'kantikou/lavaromp_ar_chapeled'
+p1149
+sg6
+S'Disons le chapelet'
+p1150
+sg8
+I285
+sg9
+I3
+sg10
+S'Lavaromp ar chapeled'
+p1151
+ssI286
+(dp1152
+g3
+I223
+sg4
+S'kantikou/m_hoc_h_ador'
+p1153
+sg6
+S'Je vous adore'
+p1154
+sg8
+I286
+sg9
+I3
+sg10
+S"M'hoc'h ador"
+p1155
+ssI287
+(dp1156
+g3
+I214
+sg4
+S'kantikou/me_ho_salud'
+p1157
+sg6
+S'Je vous salue, corps de mon Sauveur'
+p1158
+sg8
+I287
+sg9
+I3
+sg10
+S'Me ho salud, korf va Salver'
+p1159
+ssI288
+(dp1160
+g3
+I361
+sg4
+S'kantikou/meulomp_holl_da_viken'
+p1161
+sg6
+S'Louons tous pour toujours'
+p1162
+sg8
+I288
+sg9
+I3
+sg10
+S'Meulomp holl da viken'
+p1163
+ssI289
+(dp1164
+g3
+I333
+sg4
+S'kantikou/nann_n_eus_ket_e_breizh'
+p1165
+sg6
+S"Non, il n'y a pas en Bretagne"
+p1166
+sg8
+I289
+sg9
+I3
+sg10
+S"Nann, n'eus ket e Breizh"
+p1167
+ssI290
+(dp1168
+g3
+I342
+sg4
+S'kantikou/ni_ho_salud_o_leun_a_c_hras'
+p1169
+sg6
+S'Nous vous saluons, \xf4 pleine de gr\xe2ces'
+p1170
+sg8
+I290
+sg9
+I3
+sg10
+S"Ni ho salud, o leun a c'hras"
+p1171
+ssI291
+(dp1172
+g3
+I331
+sg4
+S'kantikou/ni_ho_salud_rouanez_an_aelez'
+p1173
+sg6
+S'Nous vous saluons, Reine des Anges'
+p1174
+sg8
+I291
+sg9
+I3
+sg10
+S'Ni ho salud, Rouanez an Aelez'
+p1175
+ssI292
+(dp1176
+g3
+I232
+sg4
+S'kantikou/ni_ho_salud_steredenn_vor'
+p1177
+sg6
+S'Nous vous saluons, Etoile de la Mer'
+p1178
+sg8
+I292
+sg9
+I3
+sg10
+S'Ni ho salud, Steredenn Vor'
+p1179
+ssI293
+(dp1180
+g3
+I263
+sg4
+S'kantikou/ni_hoc_h_ador'
+p1181
+sg6
+S'Nous vous adorons'
+p1182
+sg8
+I293
+sg9
+I3
+sg10
+S"Ni hoc'h ador"
+p1183
+ssI294
+(dp1184
+g3
+I283
+sg4
+S'kantikou/o_kalon_sakr'
+p1185
+sg6
+S'O sacr\xe9 coeur'
+p1186
+sg8
+I294
+sg9
+I3
+sg10
+S'O kalon sakr'
+p1187
+ssI295
+(dp1188
+g3
+I372
+sg4
+S'kantikou/o_mamm_a_garantez'
+p1189
+sg6
+S"O M\xe8re d'amour"
+p1190
+sg8
+I295
+sg9
+I3
+sg10
+S'O Mamm a garantez'
+p1191
+ssI296
+(dp1192
+g3
+I239
+sg4
+S'kantikou/o_sakramant_burzhudus'
+p1193
+sg6
+S'O Sacrement merveilleux'
+p1194
+sg8
+I296
+sg9
+I3
+sg10
+S'O Sakramant burzhudus'
+p1195
+ssI297
+(dp1196
+g3
+I293
+sg4
+S'kantikou/o_va_ene_kanomp_bemdez'
+p1197
+sg6
+S'O mon \xe2me, chantons chaque jour'
+p1198
+sg8
+I297
+sg9
+I3
+sg10
+S'O va ene, kanomp bemdez'
+p1199
+ssI298
+(dp1200
+g3
+I264
+sg4
+S'kantikou/patronez_dous_ar_folgoat'
+p1201
+sg6
+S'Douce Patronne du Folgoat'
+p1202
+sg8
+I298
+sg9
+I3
+sg10
+S'Patronez dous ar Folgoat'
+p1203
+ssI299
+(dp1204
+g3
+I286
+sg4
+S'kantikou/pe_trouz_war_an_douar'
+p1205
+sg6
+S'Quel bruit sur la terre'
+p1206
+sg8
+I299
+sg9
+I3
+sg10
+S'Pe trouz war an douar'
+p1207
+ssI300
+(dp1208
+g3
+I331
+sg4
+S'kantikou/pegen_kaer'
+p1209
+sg6
+S"Qu'il est beau"
+p1210
+sg8
+I300
+sg9
+I3
+sg10
+S'Pegen kaer'
+p1211
+ssI301
+(dp1212
+g3
+I325
+sg4
+S'kantikou/piv_lavaro'
+p1213
+sg6
+S'Qui dira quelle douleur'
+p1214
+sg8
+I301
+sg9
+I3
+sg10
+S"Piv lavaro pebezh glac'har"
+p1215
+ssI302
+(dp1216
+g3
+I249
+sg4
+S'kantikou/rouanez_an_arvor'
+p1217
+sg6
+S"Reine de l'Arvor"
+p1218
+sg8
+I302
+sg9
+I3
+sg10
+S'Rouanez an Arvor'
+p1219
+ssI303
+(dp1220
+g3
+I394
+sg4
+S'kantikou/sant_efflamm_hag_ar_roue_arzhur'
+p1221
+sg6
+S'Saint Efflamm et le Roi Arthur'
+p1222
+sg8
+I303
+sg9
+I3
+sg10
+S'Sant Efflamm hag ar Roue Arzhur'
+p1223
+ssI304
+(dp1224
+g3
+I227
+sg4
+S'kantikou/spered_santel'
+p1225
+sg6
+S"L'Esprit Saint"
+p1226
+sg8
+I304
+sg9
+I3
+sg10
+S'Spered Santel'
+p1227
+ssI305
+(dp1228
+g3
+I369
+sg4
+S'kantikou/tour_an_arvor'
+p1229
+sg6
+S"La Tour d'Armor"
+p1230
+sg8
+I305
+sg9
+I3
+sg10
+S'Tour an Arvor'
+p1231
+ssI306
+(dp1232
+g3
+I301
+sg4
+S'kantikou/tremen_ra_pep_tra'
+p1233
+sg6
+S'Toute chose passe'
+p1234
+sg8
+I306
+sg9
+I3
+sg10
+S"Tremen 'ra pep tra"
+p1235
+ssI307
+(dp1236
+g3
+I379
+sg4
+S'kantikou/un_doue_a_zeu'
+p1237
+sg6
+S'Un Dieu vient'
+p1238
+sg8
+I307
+sg9
+I3
+sg10
+S'Un Doue a zeu'
+p1239
+ssI308
+(dp1240
+g3
+I365
+sg4
+S'kanv_jego'
+p1241
+sg6
+S'Le glas de J\xe9gou'
+p1242
+sg8
+I308
+sg9
+I0
+sg10
+S'Ka\xf1v Jego'
+p1243
+ssI309
+(dp1244
+g3
+I345
+sg4
+S'kanvou'
+p1245
+sg6
+S'Deuils'
+p1246
+sg8
+I309
+sg9
+I1
+sg10
+S'Ka\xf1vo\xf9'
+p1247
+ssI310
+(dp1248
+g3
+I205
+sg4
+S'kaourintinig_ha_marivonig'
+p1249
+sg6
+S'Corentin et Maryvonne'
+p1250
+sg8
+I310
+sg9
+I2
+sg10
+S'Kaourintinig ha Marivonig'
+p1251
+ssI311
+(dp1252
+g3
+I312
+sg4
+S'karantez_da_gentan'
+p1253
+sg6
+S"L'amour d'abord"
+p1254
+sg8
+I311
+sg9
+I0
+sg10
+S'Karantez da genta\xf1'
+p1255
+ssI312
+(dp1256
+g3
+I354
+sg4
+S'kastell_bourdel'
+p1257
+sg6
+S'Le ch\xe2teau de Bordeaux'
+p1258
+sg8
+I312
+sg9
+I0
+sg10
+S'Kastell Bourdel <i class="danse">Jabadao d\'Hanvec</i>'
+p1259
+ssI313
+(dp1260
+g3
+I308
+sg4
+S'katell_gollet'
+p1261
+sg6
+S'Catherine la perdue'
+p1262
+sg8
+I313
+sg9
+I1
+sg10
+S'Katell gollet'
+p1263
+ssI314
+(dp1264
+g3
+I205
+sg4
+S'kemenerien_paotred_ar_vazh'
+p1265
+sg6
+S'Tailleurs, gars du b\xe2ton'
+p1266
+sg8
+I314
+sg9
+I2
+sg10
+S'Kemenerien, paotred ar vazh'
+p1267
+ssI315
+(dp1268
+g3
+I394
+sg4
+S'kemeromp_an_hent_trez'
+p1269
+sg6
+S'Prenons le passage'
+p1270
+sg8
+I315
+sg9
+I0
+sg10
+S'Kemeromp an hent trez'
+p1271
+ssI316
+(dp1272
+g3
+I315
+sg4
+S'kenavo'
+p1273
+sg6
+S'Au revoir'
+p1274
+sg8
+I316
+sg9
+I0
+sg10
+S'Kenavo'
+p1275
+ssI317
+(dp1276
+g3
+I389
+sg4
+S'kenavo_d_ar_yaouankiz'
+p1277
+sg6
+S'Au revoir \xe0 la jeunesse'
+p1278
+sg8
+I317
+sg9
+I1
+sg10
+S"Kenavo d'ar yaouankiz"
+p1279
+ssI318
+(dp1280
+g3
+I390
+sg4
+S'kentel_ar_beorien'
+p1281
+sg6
+S'La chanson des pauvres'
+p1282
+sg8
+I318
+sg9
+I0
+sg10
+S'Kentel ar beorien'
+p1283
+ssI319
+(dp1284
+g3
+I271
+sg4
+S'kentel_fest_ar_vugale'
+p1285
+sg6
+S'La chanson de f\xeate des petits p\xe2tres'
+p1286
+sg8
+I319
+sg9
+I0
+sg10
+S'Kentel fest ar vugale'
+p1287
+ssI320
+(dp1288
+g3
+I365
+sg4
+S'khd/an_anduilhenn'
+p1289
+sg6
+S"L'andouille"
+p1290
+sg8
+I320
+sg9
+I4
+sg10
+S'An anduilhenn'
+p1291
+ssI321
+(dp1292
+g3
+I359
+sg4
+S'khd/an_dizertour'
+p1293
+sg6
+S'Le d\xe9serteur'
+p1294
+sg8
+I321
+sg9
+I4
+sg10
+S'An dizertour <i class="danse">Plinn</i>'
+p1295
+ssI322
+(dp1296
+g3
+I325
+sg4
+S'khd/an_durzhunell_gavotte'
+p1297
+sg6
+S'La tourterelle'
+p1298
+sg8
+I322
+sg9
+I4
+sg10
+S'An durzhunell <i class="danse">Gavotte</i>'
+p1299
+ssI323
+(dp1300
+g3
+I200
+sg4
+S'khd/ar_bempvet_devezh_a_viz_genver'
+p1301
+sg6
+S'Le cinq janvier'
+p1302
+sg8
+I323
+sg9
+I4
+sg10
+S'Ar bempvet devezh a viz Genver <i class="danse">Fa\xf1ch Plin</i>'
+p1303
+ssI324
+(dp1304
+g3
+I286
+sg4
+S'khd/ar_bidedig'
+p1305
+sg6
+S'Le petit bidet'
+p1306
+sg8
+I324
+sg9
+I4
+sg10
+S'Ar bidedig <i class="danse">Da\xf1s Fa\xf1ch</i>'
+p1307
+ssI325
+(dp1308
+g3
+I315
+sg4
+S'khd/ar_c_hentan_gwech_m_oa_graet_al_lez'
+p1309
+sg6
+S"La premi\xe8re fois que j'ai fait ma cour"
+p1310
+sg8
+I325
+sg9
+I4
+sg10
+S'Ar c\'henta\xf1 gwech \'m oa graet al lez <i class="danse">Plinn</i>'
+p1311
+ssI326
+(dp1312
+g3
+I300
+sg4
+S'khd/ar_gevier'
+p1313
+sg6
+S'Les mensonges'
+p1314
+sg8
+I326
+sg9
+I4
+sg10
+S'Ar gevier <i class="danse">Bal Fisel</i>'
+p1315
+ssI327
+(dp1316
+g3
+I200
+sg4
+S'khd/ar_miliner_laer'
+p1317
+sg6
+S'Le meunier voleur'
+p1318
+sg8
+I327
+sg9
+I4
+sg10
+S'Ar miliner laer'
+p1319
+ssI328
+(dp1320
+g3
+I309
+sg4
+S'khd/arsa_ta_rosignolig'
+p1321
+sg6
+S'Eh bien, petit rossignol'
+p1322
+sg8
+I328
+sg9
+I4
+sg10
+S'Arsa \'ta Rosignolig <i class="danse">Fa\xf1ch Plin</i>'
+p1323
+ssI329
+(dp1324
+g3
+I358
+sg4
+S'khd/biskoazh'
+p1325
+sg6
+S"Jamais je n'avais autant ri"
+p1326
+sg8
+I329
+sg9
+I4
+sg10
+S"Biskoazh 'm-oa c'hoarzhet kemend-all"
+p1327
+ssI330
+(dp1328
+g3
+I389
+sg4
+S'khd/c_hozh_paotr_yaouank'
+p1329
+sg6
+S'Le vieux gar\xe7on'
+p1330
+sg8
+I330
+sg9
+I4
+sg10
+S"Ar c'hozh paotr yaouank kozh"
+p1331
+ssI331
+(dp1332
+g3
+I304
+sg4
+S'khd/dans_ar_podou_fer'
+p1333
+sg6
+S'Danse des marmites'
+p1334
+sg8
+I331
+sg9
+I4
+sg10
+S'Da\xf1s ar podo\xf9-fer'
+p1335
+ssI332
+(dp1336
+g3
+I305
+sg4
+S'khd/daou_zen_yaouank_o_vale'
+p1337
+sg6
+S'Deux jeunes gens se prom\xe8nent'
+p1338
+sg8
+I332
+sg9
+I4
+sg10
+S'Daou zen yaouank o vale <i class="danse">Fisel</i>'
+p1339
+ssI333
+(dp1340
+g3
+I238
+sg4
+S'khd/deus_a_unan'
+p1341
+sg6
+S'Depuis un'
+p1342
+sg8
+I333
+sg9
+I4
+sg10
+S'Deus a unan <i class="danse">Da\xf1s ar podo\xf9-fer</i>'
+p1343
+ssI334
+(dp1344
+g3
+I208
+sg4
+S'khd/dezertour'
+p1345
+sg6
+S'Le d\xe9serteur'
+p1346
+sg8
+I334
+sg9
+I4
+sg10
+S'An dezertour <i class="danse">Gavotte</i>'
+p1347
+ssI335
+(dp1348
+g3
+I207
+sg4
+S'khd/disput'
+p1349
+sg6
+S'La dispute entre un Cornouaillais et un Tr\xe9gorrois'
+p1350
+sg8
+I335
+sg9
+I4
+sg10
+S"An disput etre ar C'hernevad hag an Tregeriad"
+p1351
+ssI336
+(dp1352
+g3
+I363
+sg4
+S'khd/disul_barzh_an_overn-bred'
+p1353
+sg6
+S"Dimanche \xe0 la grand'messe"
+p1354
+sg8
+I336
+sg9
+I4
+sg10
+S'Disul \'barzh an overn-bred <i class="danse">Fisel</i>'
+p1355
+ssI337
+(dp1356
+g3
+I378
+sg4
+S'khd/diviz'
+p1357
+sg6
+S'Conversation entre un Fa\xf1ch et un Fisel'
+p1358
+sg8
+I337
+sg9
+I4
+sg10
+S'An diviz etre ar Fa\xf1ch hag ar Fisel'
+p1359
+ssI338
+(dp1360
+g3
+I324
+sg4
+S'khd/garnizon'
+p1361
+sg6
+S'La garnison de Lannion'
+p1362
+sg8
+I338
+sg9
+I4
+sg10
+S'Garnizon Lannuon'
+p1363
+ssI339
+(dp1364
+g3
+I231
+sg4
+S'khd/kalon_frailhet'
+p1365
+sg6
+S'Coeur bris\xe9'
+p1366
+sg8
+I339
+sg9
+I4
+sg10
+S'Kalon frailhet <i class="danse">Fisel</i>'
+p1367
+ssI340
+(dp1368
+g3
+I266
+sg4
+S'khd/kanenn_evit_dansal'
+p1369
+sg6
+S'Chanson pour danser'
+p1370
+sg8
+I340
+sg9
+I4
+sg10
+S'Kanenn evit da\xf1sal'
+p1371
+ssI341
+(dp1372
+g3
+I393
+sg4
+S'khd/kemener_toull_ar_bodou'
+p1373
+sg6
+S'Le tailleur de Toull-ar-Bodo\xf9'
+p1374
+sg8
+I341
+sg9
+I4
+sg10
+S'Kemener Toull-ar-Bodo\xf9 <i class="danse">Gavotte des Montagnes</i>'
+p1375
+ssI342
+(dp1376
+g3
+I391
+sg4
+S'khd/konskried_sant_trefin'
+p1377
+sg6
+S'Les conscrits de Sainte-Tr\xe9phine'
+p1378
+sg8
+I342
+sg9
+I4
+sg10
+S'Konskried Sant Trefin'
+p1379
+ssI343
+(dp1380
+g3
+I327
+sg4
+S'khd/laret_hu_din_ma_mamm'
+p1381
+sg6
+S'Dites-moi, ma m\xe8re'
+p1382
+sg8
+I343
+sg9
+I4
+sg10
+S'L\xe2ret-hu din, ma mamm <i class="danse">Bal Fa\xf1ch</i>'
+p1383
+ssI344
+(dp1384
+g3
+I291
+sg4
+S'khd/mari_ra_din_c_hoarzhin'
+p1385
+sg6
+S'Marie me fait rire'
+p1386
+sg8
+I344
+sg9
+I4
+sg10
+S'Mari ra din c\'hoarzhin <i class="danse">Bal Fa\xf1ch</i>'
+p1387
+ssI345
+(dp1388
+g3
+I219
+sg4
+S'khd/metig'
+p1389
+sg6
+S'Metig'
+p1390
+sg8
+I345
+sg9
+I4
+sg10
+S'Metig'
+p1391
+ssI346
+(dp1392
+g3
+I341
+sg4
+S'khd/n_em_eus_ket_met_dek_miz'
+p1393
+sg6
+S"Je n'ai plus que dix mois"
+p1394
+sg8
+I346
+sg9
+I4
+sg10
+S'N\'em eus ket met dek miz <i class="danse">Bal Plin</i>'
+p1395
+ssI347
+(dp1396
+g3
+I242
+sg4
+S'khd/na_seitek_deiz_ha_triwec_h_miz'
+p1397
+sg6
+S'Dix-sept jours et dix-huit mois'
+p1398
+sg8
+I347
+sg9
+I4
+sg10
+S'Na seitek deiz ha triwec\'h miz <i class="danse">Bal Fisel</i>'
+p1399
+ssI348
+(dp1400
+g3
+I288
+sg4
+S'khd/nozvezh_kentan_ma_eured'
+p1401
+sg6
+S'La premi\xe8re nuit de mes noces'
+p1402
+sg8
+I348
+sg9
+I4
+sg10
+S'Nozvezh kenta\xf1 ma eured <i class="danse">Da\xf1s Fisel</i>'
+p1403
+ssI349
+(dp1404
+g3
+I367
+sg4
+S'khd/o_ma_dan-me_d_an_arme'
+p1405
+sg6
+S"O ! si je vais \xe0 l'arm\xe9e"
+p1406
+sg8
+I349
+sg9
+I4
+sg10
+S'O ! ma dan-me d\'an arme <i class="danse">Fisel</i>'
+p1407
+ssI350
+(dp1408
+g3
+I256
+sg4
+S'khd/o_tont_d_ar_ger'
+p1409
+sg6
+S'En revenant \xe0 la maison'
+p1410
+sg8
+I350
+sg9
+I4
+sg10
+S'O tont d\'ar g\xear <i class="danse">Danse Monfarin</i>'
+p1411
+ssI351
+(dp1412
+g3
+I255
+sg4
+S'khd/pach_pi'
+p1413
+sg6
+S'Pach-pi'
+p1414
+sg8
+I351
+sg9
+I4
+sg10
+S'Pach-pi'
+p1415
+ssI352
+(dp1416
+g3
+I313
+sg4
+S'khd/pachpi_1'
+p1417
+sg6
+S'Pach-pi'
+p1418
+sg8
+I352
+sg9
+I4
+sg10
+S'Pach-pi (1)'
+p1419
+ssI353
+(dp1420
+g3
+I227
+sg4
+S'khd/pachpi_2'
+p1421
+sg6
+S'Pach-pi'
+p1422
+sg8
+I353
+sg9
+I4
+sg10
+S'Pach-pi (2)'
+p1423
+ssI354
+(dp1424
+g3
+I265
+sg4
+S'khd/paotred_ar_sabad'
+p1425
+sg6
+S'Les gars du Sabbat'
+p1426
+sg8
+I354
+sg9
+I4
+sg10
+S'Paotred ar Sabad <i class="danse">Pach-pi</i>'
+p1427
+ssI355
+(dp1428
+g3
+I369
+sg4
+S'khd/paotred_kerzaoulou'
+p1429
+sg6
+S'Les gars de Kerzaoulou'
+p1430
+sg8
+I355
+sg9
+I4
+sg10
+S'Paotred Kerzaoulou <i class="danse">Fisel</i>'
+p1431
+ssI356
+(dp1432
+g3
+I289
+sg4
+S'khd/pennherez'
+p1433
+sg6
+S'La fille unique'
+p1434
+sg8
+I356
+sg9
+I4
+sg10
+S'Ar bennherez (1)'
+p1435
+ssI357
+(dp1436
+g3
+I322
+sg4
+S'khd/pennherez2'
+p1437
+sg6
+S'La fille unique'
+p1438
+sg8
+I357
+sg9
+I4
+sg10
+S'Ar bennherez (2)'
+p1439
+ssI358
+(dp1440
+g3
+I225
+sg4
+S'khd/plac_hig_yaouank_deus_pluzulian'
+p1441
+sg6
+S'La jeune fille de Pluzulian'
+p1442
+sg8
+I358
+sg9
+I4
+sg10
+S'Plac\'hig yaouank deus Pluzulian <i class="danse">Bal Fisel</i>'
+p1443
+ssI359
+(dp1444
+g3
+I325
+sg4
+S'khd/serjant-major'
+p1445
+sg6
+S'Je suis un sergent-major'
+p1446
+sg8
+I359
+sg9
+I4
+sg10
+S'Me zo ur serjant-major'
+p1447
+ssI360
+(dp1448
+g3
+I241
+sg4
+S'khd/son_ar_miliner'
+p1449
+sg6
+S'La chanson du meunier'
+p1450
+sg8
+I360
+sg9
+I4
+sg10
+S'Son ar miliner'
+p1451
+ssI361
+(dp1452
+g3
+I228
+sg4
+S'khd/tont_d_ar_ger_eus_a_rostren'
+p1453
+sg6
+S'En revenant de Rostrenen'
+p1454
+sg8
+I361
+sg9
+I4
+sg10
+S"'Tont d'ar g\xear eus a Rostren"
+p1455
+ssI362
+(dp1456
+g3
+I290
+sg4
+S'kichennig_ar_vilin'
+p1457
+sg6
+S'A c\xf4t\xe9 du moulin'
+p1458
+sg8
+I362
+sg9
+I1
+sg10
+S'Kichennig ar vilin'
+p1459
+ssI363
+(dp1460
+g3
+I360
+sg4
+S'kimiad_ar_martolod'
+p1461
+sg6
+S"L'adieu du marin"
+p1462
+sg8
+I363
+sg9
+I1
+sg10
+S'Kimiad ar martolod'
+p1463
+ssI364
+(dp1464
+g3
+I304
+sg4
+S'kimiad_ar_soudard_yaouank'
+p1465
+sg6
+S"L'adieu du jeune conscrit"
+p1466
+sg8
+I364
+sg9
+I1
+sg10
+S'Kimiad ar soudard yaouank'
+p1467
+ssI365
+(dp1468
+g3
+I276
+sg4
+S'kimiad_ar_soudard_yaouank_2'
+p1469
+sg6
+S"L'adieu du jeune conscrit"
+p1470
+sg8
+I365
+sg9
+I1
+sg10
+S'Kimiad ar soudard yaouank'
+p1471
+ssI366
+(dp1472
+g3
+I201
+sg4
+S'kimiad_daou_soudard_yaouank'
+p1473
+sg6
+S"L'adieu de deux jeunes conscrits"
+p1474
+sg8
+I366
+sg9
+I1
+sg10
+S'Kimiad daou soudard yaouank'
+p1475
+ssI367
+(dp1476
+g3
+I238
+sg4
+S'kimiad_paotred_montroulez'
+p1477
+sg6
+S"L'adieu des gars de Morlaix"
+p1478
+sg8
+I367
+sg9
+I1
+sg10
+S'Kimiad paotred Montroulez'
+p1479
+ssI368
+(dp1480
+g3
+I270
+sg4
+S'kleier_kemper'
+p1481
+sg6
+S'Les cloches de Quimper'
+p1482
+sg8
+I368
+sg9
+I0
+sg10
+S'Kleier Kemper'
+p1483
+ssI369
+(dp1484
+g3
+I225
+sg4
+S'klemmou_ur_wreg_yaouank'
+p1485
+sg6
+S"Plaintes d'une jeune mari\xe9e"
+p1486
+sg8
+I369
+sg9
+I1
+sg10
+S'Klemmo\xf9 ur wreg yaouank'
+p1487
+ssI370
+(dp1488
+g3
+I383
+sg4
+S'klemmvan_itron_nizon'
+p1489
+sg6
+S'Complainte de la Dame de Nizon'
+p1490
+sg8
+I370
+sg9
+I1
+sg10
+S'Klemmvan Itron Nizon'
+p1491
+ssI371
+(dp1492
+g3
+I274
+sg4
+S'kloareg_yannig_herri'
+p1493
+sg6
+S'Le clerc Jean Henri'
+p1494
+sg8
+I371
+sg9
+I1
+sg10
+S'Kloareg Yannig Herri'
+p1495
+ssI372
+(dp1496
+g3
+I373
+sg4
+S'kloareg_kerdangi'
+p1497
+sg6
+S'Le clerc de Kertanguy'
+p1498
+sg8
+I372
+sg9
+I1
+sg10
+S'Kloareg Kerdangi'
+p1499
+ssI373
+(dp1500
+g3
+I288
+sg4
+S'kloareg_koad_ar_rannou'
+p1501
+sg6
+S'Le clerc de Koad-ar-Ranno\xf9'
+p1502
+sg8
+I373
+sg9
+I1
+sg10
+S'Kloareg Koad-ar-Ranno\xf9'
+p1503
+ssI374
+(dp1504
+g3
+I377
+sg4
+S'kloareg_rohan'
+p1505
+sg6
+S'Le clerc de Rohan'
+p1506
+sg8
+I374
+sg9
+I1
+sg10
+S'Kloareg Rohan'
+p1507
+ssI375
+(dp1508
+g3
+I223
+sg4
+S'kloareg_tremelo'
+p1509
+sg6
+S'Le clerc de Tremelo'
+p1510
+sg8
+I375
+sg9
+I1
+sg10
+S'Kloareg Tremelo'
+p1511
+ssI376
+(dp1512
+g3
+I317
+sg4
+S'koroll_ar_balan_alaouret'
+p1513
+sg6
+S'Danse du gen\xeat dor\xe9'
+p1514
+sg8
+I376
+sg9
+I0
+sg10
+S'Koroll ar balan alaouret'
+p1515
+ssI377
+(dp1516
+g3
+I231
+sg4
+S'kotogotogog'
+p1517
+sg6
+S'Cocorico'
+p1518
+sg8
+I377
+sg9
+I2
+sg10
+S'Kotogotogog'
+p1519
+ssI378
+(dp1520
+g3
+I297
+sg4
+S'kousk_breizh_izel'
+p1521
+sg6
+S'Dors, ma Bretagne'
+p1522
+sg8
+I378
+sg9
+I0
+sg10
+S'Kousk Breizh Izel'
+p1523
+ssI379
+(dp1524
+g3
+I309
+sg4
+S'kousk_ma_mabig'
+p1525
+sg6
+S'Dors, mon cher petit'
+p1526
+sg8
+I379
+sg9
+I2
+sg10
+S'Kousk, ma mabig'
+p1527
+ssI380
+(dp1528
+g3
+I345
+sg4
+S'kroaz_an_hent'
+p1529
+sg6
+S'La croix du chemin'
+p1530
+sg8
+I380
+sg9
+I0
+sg10
+S'Kroaz an hent'
+p1531
+ssI381
+(dp1532
+g3
+I343
+sg4
+S'laeradeg_pe_derobee'
+p1533
+sg6
+S'D\xe9rob\xe9e'
+p1534
+sg8
+I381
+sg9
+I0
+sg10
+S'Laeradeg pe D\xe9rob\xe9e'
+p1535
+ssI382
+(dp1536
+g3
+I226
+sg4
+S'laezh_melen'
+p1537
+sg6
+S'Le lait jaune'
+p1538
+sg8
+I382
+sg9
+I0
+sg10
+S'Laezh melen <i class="danse">Gavotte d\'Hanvec</i>'
+p1539
+ssI383
+(dp1540
+g3
+I289
+sg4
+S'lakit_ho_troadig'
+p1541
+sg6
+S'Mettez votre petit pied'
+p1542
+sg8
+I383
+sg9
+I2
+sg10
+S'Lakit ho troadig'
+p1543
+ssI384
+(dp1544
+g3
+I234
+sg4
+S'landripen_landrapen'
+p1545
+sg6
+S'Landripen, Landrapen'
+p1546
+sg8
+I384
+sg9
+I0
+sg10
+S'Landripen, Landrapen'
+p1547
+ssI385
+(dp1548
+g3
+I372
+sg4
+S'lez_breizh'
+p1549
+sg6
+S'Lez-Breizh, ou Morvan'
+p1550
+sg8
+I385
+sg9
+I1
+sg10
+S'Lez-Breizh'
+p1551
+ssI386
+(dp1552
+g3
+I306
+sg4
+S'lezobre'
+p1553
+sg6
+S'Les Aubrays'
+p1554
+sg8
+I386
+sg9
+I1
+sg10
+S'Lezobre'
+p1555
+ssI387
+(dp1556
+g3
+I377
+sg4
+S'livadenn_ger_is'
+p1557
+sg6
+S"Submersion de la ville d'Ys"
+p1558
+sg8
+I387
+sg9
+I1
+sg10
+S'Livadenn G\xear Is'
+p1559
+ssI388
+(dp1560
+g3
+I331
+sg4
+S'loeiz_ar_chevrant'
+p1561
+sg6
+S'Louis Le Chevrant'
+p1562
+sg8
+I388
+sg9
+I0
+sg10
+S'Loeiz ar Chevrant'
+p1563
+ssI389
+(dp1564
+g3
+I276
+sg4
+S'loeizaig_ha_perig'
+p1565
+sg6
+S'Louisette et Pierrot'
+p1566
+sg8
+I389
+sg9
+I0
+sg10
+S'Loeizaig ha Perig'
+p1567
+ssI390
+(dp1568
+g3
+I297
+sg4
+S'loiza_hag_abalard'
+p1569
+sg6
+S'H\xe9lo\xefse et Ab\xe9lard'
+p1570
+sg8
+I390
+sg9
+I1
+sg10
+S'Loiza hag Abalard'
+p1571
+ssI391
+(dp1572
+g3
+I364
+sg4
+S'lojaig_1'
+p1573
+sg6
+S'Louison (1)'
+p1574
+sg8
+I391
+sg9
+I0
+sg10
+S'Lojaig (1)'
+p1575
+ssI392
+(dp1576
+g3
+I376
+sg4
+S'lojaig_2'
+p1577
+sg6
+S'Louison (2)'
+p1578
+sg8
+I392
+sg9
+I0
+sg10
+S'Lojaig (2)'
+p1579
+ssI393
+(dp1580
+g3
+I311
+sg4
+S'luskell_va_bag'
+p1581
+sg6
+S'Berce ma barque'
+p1582
+sg8
+I393
+sg9
+I0
+sg10
+S'Luskell va bag'
+p1583
+ssI394
+(dp1584
+g3
+I237
+sg4
+S'm_anaou'
+p1585
+sg6
+S'Je connais un jeune homme'
+p1586
+sg8
+I394
+sg9
+I0
+sg10
+S"M'anaou un den yaouank"
+p1587
+ssI395
+(dp1588
+g3
+I349
+sg4
+S'm_anau_un_den_iouank'
+p1589
+sg6
+S'Je connais un jeune homme'
+p1590
+sg8
+I395
+sg9
+I0
+sg10
+S"M'ana\xf9 un d\xe9n iouank"
+p1591
+ssI396
+(dp1592
+g3
+I377
+sg4
+S'm_em_es_choejet_un_dous'
+p1593
+sg6
+S"J'ai choisi un petit ami"
+p1594
+sg8
+I396
+sg9
+I0
+sg10
+S"M'em es cho\xe9jet un dous"
+p1595
+ssI397
+(dp1596
+g3
+I249
+sg4
+S'm_em_es_choejet_ur_servijer'
+p1597
+sg6
+S"J'ai choisi un serviteur"
+p1598
+sg8
+I397
+sg9
+I0
+sg10
+S"M'em es cho\xe9jet ur servijer"
+p1599
+ssI398
+(dp1600
+g3
+I287
+sg4
+S'm_em_es_choejet_ur_vestrez'
+p1601
+sg6
+S"J'ai choisi une ma\xeetresse"
+p1602
+sg8
+I398
+sg9
+I0
+sg10
+S"M'em es cho\xe9jet ur vestr\xe9z"
+p1603
+ssI399
+(dp1604
+g3
+I243
+sg4
+S'm_eus_me_un_ti_e_normandi'
+p1605
+sg6
+S"J'ai une maison en Normandie"
+p1606
+sg8
+I399
+sg9
+I0
+sg10
+S"'M-eus-me un ti \xe9 Normandi"
+p1607
+ssI400
+(dp1608
+g3
+I260
+sg4
+S'mab_er_brigand'
+p1609
+sg6
+S'Le fils du brigand'
+p1610
+sg8
+I400
+sg9
+I1
+sg10
+S'Mab er brigand'
+p1611
+ssI401
+(dp1612
+g3
+I246
+sg4
+S'mamm_an_avalou_1'
+p1613
+sg6
+S'La m\xe8re des pommes'
+p1614
+sg8
+I401
+sg9
+I0
+sg10
+S'Mamm an avalo\xf9 (1)'
+p1615
+ssI402
+(dp1616
+g3
+I203
+sg4
+S'mamm_an_avalou_2'
+p1617
+sg6
+S'La m\xe8re des pommes'
+p1618
+sg8
+I402
+sg9
+I0
+sg10
+S'Mamm an avalo\xf9 (2)'
+p1619
+ssI403
+(dp1620
+g3
+I277
+sg4
+S'mar_de_me_mestrez_en_hou_ti'
+p1621
+sg6
+S'Si ma ma\xeetresse est chez vous'
+p1622
+sg8
+I403
+sg9
+I0
+sg10
+S'Mar d\xe9 me mestr\xe9z en hou ti'
+p1623
+ssI404
+(dp1624
+g3
+I301
+sg4
+S'marc_had_ar_merc_hed_yaouank'
+p1625
+sg6
+S'Le march\xe9 des jeunes filles'
+p1626
+sg8
+I404
+sg9
+I0
+sg10
+S"Marc'had ar merc'hed yaouank"
+p1627
+ssI405
+(dp1628
+g3
+I260
+sg4
+S'marc_haridig'
+p1629
+sg6
+S'La petite Marguerite'
+p1630
+sg8
+I405
+sg9
+I0
+sg10
+S"Marc'haridig"
+p1631
+ssI406
+(dp1632
+g3
+I321
+sg4
+S'margaritig'
+p1633
+sg6
+S'Marguerite'
+p1634
+sg8
+I406
+sg9
+I1
+sg10
+S'Margaritig'
+p1635
+ssI407
+(dp1636
+g3
+I218
+sg4
+S'mari_beg_a_raok'
+p1637
+sg6
+S'Marie Bec-devant'
+p1638
+sg8
+I407
+sg9
+I0
+sg10
+S'Mari Beg-a-raok'
+p1639
+ssI408
+(dp1640
+g3
+I217
+sg4
+S'mari_kelenn'
+p1641
+sg6
+S'Marie Quelen'
+p1642
+sg8
+I408
+sg9
+I1
+sg10
+S'Mari Kelenn'
+p1643
+ssI409
+(dp1644
+g3
+I204
+sg4
+S'mari_louiz'
+p1645
+sg6
+S'Marie-Louise'
+p1646
+sg8
+I409
+sg9
+I0
+sg10
+S'Mari-Louiz'
+p1647
+ssI410
+(dp1648
+g3
+I289
+sg4
+S'marivonig_an_dourduff'
+p1649
+sg6
+S'Maryvonne du Dourduff'
+p1650
+sg8
+I410
+sg9
+I1
+sg10
+S'Marivonig an Dourduff'
+p1651
+ssI411
+(dp1652
+g3
+I253
+sg4
+S'marivonig_keryell'
+p1653
+sg6
+S'Maryvonne de Keryell'
+p1654
+sg8
+I411
+sg9
+I0
+sg10
+S'Marivonig Keryell'
+p1655
+ssI412
+(dp1656
+g3
+I284
+sg4
+S'markiz_gwerand'
+p1657
+sg6
+S'Le marquis de Gu\xe9rande'
+p1658
+sg8
+I412
+sg9
+I1
+sg10
+S'Markiz Gwerand'
+p1659
+ssI413
+(dp1660
+g3
+I224
+sg4
+S'markiz_lezobre'
+p1661
+sg6
+S'Le Marquis de Les Aubrays'
+p1662
+sg8
+I413
+sg9
+I1
+sg10
+S'Markiz Lezobre'
+p1663
+ssI414
+(dp1664
+g3
+I384
+sg4
+S'maronad_an_aotrou_nevet'
+p1665
+sg6
+S'El\xe9gie de Monsieur de N\xe9vet'
+p1666
+sg8
+I414
+sg9
+I1
+sg10
+S'Maronad an Aotrou Nevet'
+p1667
+ssI415
+(dp1668
+g3
+I311
+sg4
+S'martold'
+p1669
+sg6
+S'Trois marins'
+p1670
+sg8
+I415
+sg9
+I1
+sg10
+S'Tri martolod'
+p1671
+ssI416
+(dp1672
+g3
+I203
+sg4
+S'marv_al_laouenan_1'
+p1673
+sg6
+S'La mort du Roitelet (1)'
+p1674
+sg8
+I416
+sg9
+I2
+sg10
+S'Marv al Laouenan (1)'
+p1675
+ssI417
+(dp1676
+g3
+I329
+sg4
+S'marv_al_laouenan_2'
+p1677
+sg6
+S'La mort du Roitelet (2)'
+p1678
+sg8
+I417
+sg9
+I2
+sg10
+S'Marv al Laouenan (2)'
+p1679
+ssI418
+(dp1680
+g3
+I267
+sg4
+S'marv_al_laouenan_3'
+p1681
+sg6
+S'La mort du Roitelet (3)'
+p1682
+sg8
+I418
+sg9
+I2
+sg10
+S'Marv al Laouenan (3)'
+p1683
+ssI419
+(dp1684
+g3
+I371
+sg4
+S'marv_al_laouenan_4'
+p1685
+sg6
+S'La mort du Roitelet (4)'
+p1686
+sg8
+I419
+sg9
+I2
+sg10
+S'Marv al Laouenan (4)'
+p1687
+ssI420
+(dp1688
+g3
+I265
+sg4
+S'marv_mestrez'
+p1689
+sg6
+S'Ma bien-aim\xe9e est morte'
+p1690
+sg8
+I420
+sg9
+I1
+sg10
+S'Marv eo ma mestrez'
+p1691
+ssI421
+(dp1692
+g3
+I334
+sg4
+S'marv_pontkalleg'
+p1693
+sg6
+S'La mort de Pontcalec'
+p1694
+sg8
+I421
+sg9
+I1
+sg10
+S'Marv Pontkalleg'
+p1695
+ssI422
+(dp1696
+g3
+I263
+sg4
+S'marzhin_barzh'
+p1697
+sg6
+S'Merlin barde'
+p1698
+sg8
+I422
+sg9
+I1
+sg10
+S'Marzhin barzh'
+p1699
+ssI423
+(dp1700
+g3
+I248
+sg4
+S'marzhin_divinour'
+p1701
+sg6
+S'Merlin devin'
+p1702
+sg8
+I423
+sg9
+I1
+sg10
+S'Marzhin divinour'
+p1703
+ssI424
+(dp1704
+g3
+I286
+sg4
+S'marzhin_en_e_gavell'
+p1705
+sg6
+S'Merlin au berceau'
+p1706
+sg8
+I424
+sg9
+I1
+sg10
+S'Marzhin en e gavell'
+p1707
+ssI425
+(dp1708
+g3
+I266
+sg4
+S'matelin_an_dall'
+p1709
+sg6
+S"Mathurin l'Aveugle"
+p1710
+sg8
+I425
+sg9
+I0
+sg10
+S'Matelin an Dall'
+p1711
+ssI426
+(dp1712
+g3
+I283
+sg4
+S'matelina_troadeg'
+p1713
+sg6
+S'Mathurine Troadec'
+p1714
+sg8
+I426
+sg9
+I1
+sg10
+S'Matelina Troadeg'
+p1715
+ssI427
+(dp1716
+g3
+I292
+sg4
+S'me_a_savo_un_dourell'
+p1717
+sg6
+S'Je b\xe2tirai une tourelle'
+p1718
+sg8
+I427
+sg9
+I0
+sg10
+S'Me a savo un dourell'
+p1719
+ssI428
+(dp1720
+g3
+I242
+sg4
+S'me_an_vez_ur_goulmig'
+p1721
+sg6
+S'Je connais une colombe'
+p1722
+sg8
+I428
+sg9
+I0
+sg10
+S"Me an'vez ur goulmig"
+p1723
+ssI429
+(dp1724
+g3
+I374
+sg4
+S'me_m_eus_choazet_evit_mestrez'
+p1725
+sg6
+S"J'ai choisi pour amie"
+p1726
+sg8
+I429
+sg9
+I0
+sg10
+S'Me \'m eus choazet evit mestrez <i class="danse">Bal d\'Hanvec</i>'
+p1727
+ssI430
+(dp1728
+g3
+I223
+sg4
+S'me_m_eus_keun_d_am_far'
+p1729
+sg6
+S"J'ai grand regret de mon \xe9poux"
+p1730
+sg8
+I430
+sg9
+I0
+sg10
+S"Me 'm eus keun d'am far"
+p1731
+ssI431
+(dp1732
+g3
+I210
+sg4
+S'me_mam_reit_hui_dein'
+p1733
+sg6
+S'Ma m\xe8re, donnez-moi'
+p1734
+sg8
+I431
+sg9
+I0
+sg10
+S'Me mam, reit-hui dein'
+p1735
+ssI432
+(dp1736
+g3
+I270
+sg4
+S'me_zo_deut_betek_aman'
+p1737
+sg6
+S"Je suis venu jusqu'ici"
+p1738
+sg8
+I432
+sg9
+I0
+sg10
+S'Me zo deut betek aman'
+p1739
+ssI433
+(dp1740
+g3
+I387
+sg4
+S'meilh_kerharo'
+p1741
+sg6
+S'Le moulin de Kerharo'
+p1742
+sg8
+I433
+sg9
+I2
+sg10
+S'Meilh Kerharo'
+p1743
+ssI434
+(dp1744
+g3
+I222
+sg4
+S'melezouriou_arc_hant'
+p1745
+sg6
+S"Les miroirs d'argent"
+p1746
+sg8
+I434
+sg9
+I0
+sg10
+S"Melezourio\xf9 arc'hant"
+p1747
+ssI435
+(dp1748
+g3
+I395
+sg4
+S'merc_hejou_lokenole'
+p1749
+sg6
+S'Les filles de Locqu\xe9nol\xe9'
+p1750
+sg8
+I435
+sg9
+I0
+sg10
+S"Merc'hejo\xf9 Lokenole"
+p1751
+ssI436
+(dp1752
+g3
+I240
+sg4
+S'merhed_er_plenenneu'
+p1753
+sg6
+S'Les filles du pl\xe9neno'
+p1754
+sg8
+I436
+sg9
+I0
+sg10
+S'Merhed er Pl\xe9nenneu'
+p1755
+ssI437
+(dp1756
+g3
+I200
+sg4
+S'merhed_tal_er_henkiz'
+p1757
+sg6
+S'Les filles de Tal-er-Henkis'
+p1758
+sg8
+I437
+sg9
+I0
+sg10
+S'Merhed Tal-er-Henkiz'
+p1759
+ssI438
+(dp1760
+g3
+I306
+sg4
+S'mibien_euret'
+p1761
+sg6
+S'Les fils Euret'
+p1762
+sg8
+I438
+sg9
+I1
+sg10
+S'Mibien Euret'
+p1763
+ssI439
+(dp1764
+g3
+I201
+sg4
+S'milinerez_pontaro'
+p1765
+sg6
+S'La meuni\xe8re de Pontaro'
+p1766
+sg8
+I439
+sg9
+I0
+sg10
+S'Milinerez Pontaro'
+p1767
+ssI440
+(dp1768
+g3
+I392
+sg4
+S'mona'
+p1769
+sg6
+S'Mona'
+p1770
+sg8
+I440
+sg9
+I0
+sg10
+S'Mona'
+p1771
+ssI441
+(dp1772
+g3
+I367
+sg4
+S'morlarje_landreger'
+p1773
+sg6
+S'Carnaval de Tr\xe9guier'
+p1774
+sg8
+I441
+sg9
+I0
+sg10
+S'Morlarje Landreger'
+p1775
+ssI442
+(dp1776
+g3
+I271
+sg4
+S'n_ur_gerig_wenn'
+p1777
+sg6
+S'Dans un village blanc'
+p1778
+sg8
+I442
+sg9
+I0
+sg10
+S"'N ur g\xearig wenn"
+p1779
+ssI443
+(dp1780
+g3
+I298
+sg4
+S'n_ur_vont_d_ar_feunteun_davit_dour'
+p1781
+sg6
+S"En allant \xe0 la fontaine chercher de l'eau"
+p1782
+sg8
+I443
+sg9
+I0
+sg10
+S"'N ur vont d'ar feunteun davit dour"
+p1783
+ssI444
+(dp1784
+g3
+I363
+sg4
+S'na_beleg_na_monah'
+p1785
+sg6
+S'Ni pr\xeatre ni moine'
+p1786
+sg8
+I444
+sg9
+I0
+sg10
+S'Na beleg na monah'
+p1787
+ssI445
+(dp1788
+g3
+I315
+sg4
+S'nag_en_tu_all'
+p1789
+sg6
+S"De l'autre c\xf4t\xe9 de Paris"
+p1790
+sg8
+I445
+sg9
+I0
+sg10
+S'Nag en tu all da Baris <i class="danse">Gavotte d\'Hanvec</i>'
+p1791
+ssI446
+(dp1792
+g3
+I282
+sg4
+S'o_lakait_ho_troadig'
+p1793
+sg6
+S'O, mettez votre petit pied'
+p1794
+sg8
+I446
+sg9
+I2
+sg10
+S'O, lakait ho troadig'
+p1795
+ssI447
+(dp1796
+g3
+I388
+sg4
+S'olier_hamon'
+p1797
+sg6
+S'Olivier Hamon'
+p1798
+sg8
+I447
+sg9
+I1
+sg10
+S'Olier Hamon'
+p1799
+ssI448
+(dp1800
+g3
+I232
+sg4
+S'p_oan_o_tiskenn'
+p1801
+sg6
+S'Comme je descendais \xe0 Morlaix'
+p1802
+sg8
+I448
+sg9
+I0
+sg10
+S"P'oan o tiskenn da Vontroulez"
+p1803
+ssI449
+(dp1804
+g3
+I354
+sg4
+S'pa_oan_o_tremen_koad_an_noz'
+p1805
+sg6
+S'Comme je passais par le Bois-de-la-Nuit'
+p1806
+sg8
+I449
+sg9
+I0
+sg10
+S'Pa oan o tremen Koad-an-Noz'
+p1807
+ssI450
+(dp1808
+g3
+I356
+sg4
+S'pa_sav_al_loar'
+p1809
+sg6
+S'Quand la lune se l\xe8ve'
+p1810
+sg8
+I450
+sg9
+I1
+sg10
+S'Pa sav al loar'
+p1811
+ssI451
+(dp1812
+g3
+I270
+sg4
+S'paotr_e_c_halleg_plat'
+p1813
+sg6
+S"L'\xe9corcheur de fran\xe7ais"
+p1814
+sg8
+I451
+sg9
+I0
+sg10
+S"Paotr e c'halleg plat"
+p1815
+ssI452
+(dp1816
+g3
+I212
+sg4
+S'paotred_plouieou'
+p1817
+sg6
+S'Les jeunes hommes de Plouy\xe9'
+p1818
+sg8
+I452
+sg9
+I1
+sg10
+S'Paotred Plouieou'
+p1819
+ssI453
+(dp1820
+g3
+I337
+sg4
+S'paotred_plouhir_ha_paotred_plouber'
+p1821
+sg6
+S'Les gars de Plouhir et les gars de Plouber'
+p1822
+sg8
+I453
+sg9
+I0
+sg10
+S'Paotred Plouhir ha paotred Plouber'
+p1823
+ssI454
+(dp1824
+g3
+I326
+sg4
+S'paotred_yaouank_a_landevan'
+p1825
+sg6
+S'Les jeunes gar\xe7ons de Landevan'
+p1826
+sg8
+I454
+sg9
+I0
+sg10
+S'Paotred yaouank a Landevan'
+p1827
+ssI455
+(dp1828
+g3
+I336
+sg4
+S'paotrig_an_douar_nevez'
+p1829
+sg6
+S"Le jeune homme de l'aire neuve"
+p1830
+sg8
+I455
+sg9
+I0
+sg10
+S'Paotrig an douar nevez'
+p1831
+ssI456
+(dp1832
+g3
+I220
+sg4
+S'pardon_bras_landreger'
+p1833
+sg6
+S'Le grand pardon de Tr\xe9guier'
+p1834
+sg8
+I456
+sg9
+I1
+sg10
+S'Pardon bras Landreger'
+p1835
+ssI457
+(dp1836
+g3
+I235
+sg4
+S'pardon_sant_fiakr'
+p1837
+sg6
+S'Le pardon de Saint-Fiacre'
+p1838
+sg8
+I457
+sg9
+I1
+sg10
+S'Pardon Sant Fiakr'
+p1839
+ssI458
+(dp1840
+g3
+I230
+sg4
+S'pardon_spezed'
+p1841
+sg6
+S'Le pardon de Spezet'
+p1842
+sg8
+I458
+sg9
+I0
+sg10
+S'Pardon Spezed'
+p1843
+ssI459
+(dp1844
+g3
+I358
+sg4
+S'pe_oen_er_park_e_labourat'
+p1845
+sg6
+S'Comme je travaillais au champ'
+p1846
+sg8
+I459
+sg9
+I0
+sg10
+S'Pe oen \xe9r park \xe9 labourat'
+p1847
+ssI460
+(dp1848
+g3
+I295
+sg4
+S'pebezh_kelou'
+p1849
+sg6
+S'Quelle nouvelle'
+p1850
+sg8
+I460
+sg9
+I1
+sg10
+S'Pebezh kelo\xf9'
+p1851
+ssI461
+(dp1852
+g3
+I221
+sg4
+S'pel_doh_breih_izel'
+p1853
+sg6
+S'Loin de la Bretagne'
+p1854
+sg8
+I461
+sg9
+I0
+sg10
+S'Pel doh Breih-Izel'
+p1855
+ssI462
+(dp1856
+g3
+I308
+sg4
+S'pelec_h_ez_ez_ta_tonton_laou'
+p1857
+sg6
+S'O\xf9 vas-tu donc, Tonton Laou'
+p1858
+sg8
+I462
+sg9
+I0
+sg10
+S'Pelec\'h ez ez \'ta, Tonton Laou <i class="danse">Dans-tro</i>'
+p1859
+ssI463
+(dp1860
+g3
+I234
+sg4
+S'pennherez_keroulas'
+p1861
+sg6
+S"L'h\xe9riti\xe8re de Keroulas"
+p1862
+sg8
+I463
+sg9
+I1
+sg10
+S'Pennherez Keroulas'
+p1863
+ssI464
+(dp1864
+g3
+I306
+sg4
+S'pennherez_penn_ar_roz'
+p1865
+sg6
+S'La jeune fille de Penn-ar-Roz'
+p1866
+sg8
+I464
+sg9
+I1
+sg10
+S'Pennherez Penn-ar-Roz'
+p1867
+ssI465
+(dp1868
+g3
+I240
+sg4
+S'perak_peus_va_dimeet'
+p1869
+sg6
+S"Pourquoi m'avez-vous mari\xe9e"
+p1870
+sg8
+I465
+sg9
+I0
+sg10
+S'Perak peus va dimeet'
+p1871
+ssI466
+(dp1872
+g3
+I240
+sg4
+S'planedenn_ur_wreg_yaouank'
+p1873
+sg6
+S"Le sort d'une jeune mari\xe9e"
+p1874
+sg8
+I466
+sg9
+I0
+sg10
+S'Planedenn ur wreg yaouank'
+p1875
+ssI467
+(dp1876
+g3
+I292
+sg4
+S'plijadur_ha_displijadur'
+p1877
+sg6
+S'Plaisir et d\xe9plaisir'
+p1878
+sg8
+I467
+sg9
+I0
+sg10
+S'Plijadur ha displijadur'
+p1879
+ssI468
+(dp1880
+g3
+I269
+sg4
+S'prosez_ur_yar'
+p1881
+sg6
+S"Proc\xe8s d'une poule"
+p1882
+sg8
+I468
+sg9
+I0
+sg10
+S'Prosez ur yar'
+p1883
+ssI469
+(dp1884
+g3
+I281
+sg4
+S'prezegenn_vihan'
+p1885
+sg6
+S'Petit discours'
+p1886
+sg8
+I469
+sg9
+I2
+sg10
+S'Prezegenn vihan'
+p1887
+ssI470
+(dp1888
+g3
+I337
+sg4
+S'r_gerig_zo_du_hont'
+p1889
+sg6
+S'Il est un village, tout l\xe0-bas'
+p1890
+sg8
+I470
+sg9
+I0
+sg10
+S'\'R g\xearig zo du-hont <i class="danse">Bal ou Jabadao d\'Hanvec</i>'
+p1891
+ssI471
+(dp1892
+g3
+I212
+sg4
+S'reneadig_c_hlas'
+p1893
+sg6
+S'Ren\xe9e la P\xe2le'
+p1894
+sg8
+I471
+sg9
+I1
+sg10
+S"Reneadig C'hlas"
+p1895
+ssI472
+(dp1896
+g3
+I382
+sg4
+S'roland_hag_izabel'
+p1897
+sg6
+S'Roland et Isabelle'
+p1898
+sg8
+I472
+sg9
+I1
+sg10
+S'Roland hag Izabel'
+p1899
+ssI473
+(dp1900
+g3
+I297
+sg4
+S'roue_ar_mani'
+p1901
+sg6
+S'Le roi de Mani'
+p1902
+sg8
+I473
+sg9
+I1
+sg10
+S'Roue ar Mani'
+p1903
+ssI474
+(dp1904
+g3
+I200
+sg4
+S'roue_ar_romani'
+p1905
+sg6
+S'Le roi de Romani'
+p1906
+sg8
+I474
+sg9
+I1
+sg10
+S'Roue ar Romani'
+p1907
+ssI475
+(dp1908
+g3
+I309
+sg4
+S'salud_breizhiz'
+p1909
+sg6
+S'Salut, Bretons'
+p1910
+sg8
+I475
+sg9
+I0
+sg10
+S'Salud Breizhiz'
+p1911
+ssI476
+(dp1912
+g3
+I237
+sg4
+S'sant_juluan'
+p1913
+sg6
+S'Saint Julien'
+p1914
+sg8
+I476
+sg9
+I1
+sg10
+S'Sant Juluan'
+p1915
+ssI477
+(dp1916
+g3
+I339
+sg4
+S'sant_matelin_monkontour_1'
+p1917
+sg6
+S'Saint Mathurin de Moncontour (1)'
+p1918
+sg8
+I477
+sg9
+I1
+sg10
+S'Sant Matelin Monkontour (1)'
+p1919
+ssI478
+(dp1920
+g3
+I355
+sg4
+S'sant_matelin_monkontour_2'
+p1921
+sg6
+S'Saint Mathurin de Moncontour (2)'
+p1922
+sg8
+I478
+sg9
+I1
+sg10
+S'Sant Matelin Monkontour (2)'
+p1923
+ssI479
+(dp1924
+g3
+I234
+sg4
+S'santez_henori'
+p1925
+sg6
+S'Sainte Henori'
+p1926
+sg8
+I479
+sg9
+I1
+sg10
+S'Santez Henori'
+p1927
+ssI480
+(dp1928
+g3
+I320
+sg4
+S'santez_marc_harid'
+p1929
+sg6
+S'Sainte Marguerite'
+p1930
+sg8
+I480
+sg9
+I1
+sg10
+S"Santez Marc'harid"
+p1931
+ssI481
+(dp1932
+g3
+I336
+sg4
+S'seizenn'
+p1933
+sg6
+S'Les trois rubans'
+p1934
+sg8
+I481
+sg9
+I1
+sg10
+S'An teir seizenn'
+p1935
+ssI482
+(dp1936
+g3
+I246
+sg4
+S'seizenn_eured'
+p1937
+sg6
+S'La ceinture de noces'
+p1938
+sg8
+I482
+sg9
+I0
+sg10
+S'Seizenn eured'
+p1939
+ssI483
+(dp1940
+g3
+I381
+sg4
+S'seziz_gwengamp'
+p1941
+sg6
+S'Le si\xe8ge de Guingamp'
+p1942
+sg8
+I483
+sg9
+I1
+sg10
+S'Seziz Gwengamp'
+p1943
+ssI484
+(dp1944
+g3
+I389
+sg4
+S'silvestrig_1'
+p1945
+sg6
+S'Silvestrig'
+p1946
+sg8
+I484
+sg9
+I1
+sg10
+S'Silvestrig (1)'
+p1947
+ssI485
+(dp1948
+g3
+I234
+sg4
+S'silvestrig_bourgault_ducoudray'
+p1949
+sg6
+S'Silvestrig'
+p1950
+sg8
+I485
+sg9
+I1
+sg10
+S'Silvestrig (Bourgault-Ducoudray)'
+p1951
+ssI486
+(dp1952
+g3
+I208
+sg4
+S'skeudenn_garet'
+p1953
+sg6
+S'Image ch\xe9rie'
+p1954
+sg8
+I486
+sg9
+I0
+sg10
+S'Skeudenn garet'
+p1955
+ssI487
+(dp1956
+g3
+I298
+sg4
+S'skraperezh'
+p1957
+sg6
+S'Rapt'
+p1958
+sg8
+I487
+sg9
+I1
+sg10
+S'Skraperezh'
+p1959
+ssI488
+(dp1960
+g3
+I389
+sg4
+S'soazig'
+p1961
+sg6
+S'La petite Fran\xe7oise'
+p1962
+sg8
+I488
+sg9
+I0
+sg10
+S'Soazig'
+p1963
+ssI489
+(dp1964
+g3
+I328
+sg4
+S'son_a_garantez'
+p1965
+sg6
+S"Chanson d'amour"
+p1966
+sg8
+I489
+sg9
+I0
+sg10
+S'Son a garantez <i class="danse">Larid\xe9 de St jean</i>'
+p1967
+ssI490
+(dp1968
+g3
+I212
+sg4
+S'son_a_garantez_1'
+p1969
+sg6
+S"Chanson d'amour (1)"
+p1970
+sg8
+I490
+sg9
+I0
+sg10
+S'Son a garantez (1)'
+p1971
+ssI491
+(dp1972
+g3
+I231
+sg4
+S'son_a_garantez_2'
+p1973
+sg6
+S"Chanson d'amour (2)"
+p1974
+sg8
+I491
+sg9
+I0
+sg10
+S'Son a garantez (2)'
+p1975
+ssI492
+(dp1976
+g3
+I227
+sg4
+S'son_a_garantez_3'
+p1977
+sg6
+S"Chanson d'amour (3)"
+p1978
+sg8
+I492
+sg9
+I0
+sg10
+S'Son a garantez (3)'
+p1979
+ssI493
+(dp1980
+g3
+I290
+sg4
+S'son_al_leur_nevez'
+p1981
+sg6
+S"La chanson de l'aire neuve"
+p1982
+sg8
+I493
+sg9
+I0
+sg10
+S'Son al Leur Nevez'
+p1983
+ssI494
+(dp1984
+g3
+I372
+sg4
+S'son_amourousted'
+p1985
+sg6
+S"Chanson d'amourette"
+p1986
+sg8
+I494
+sg9
+I0
+sg10
+S'Son amourousted'
+p1987
+ssI495
+(dp1988
+g3
+I335
+sg4
+S'son_an_daol'
+p1989
+sg6
+S'La chanson de table'
+p1990
+sg8
+I495
+sg9
+I0
+sg10
+S'Son an daol'
+p1991
+ssI496
+(dp1992
+g3
+I319
+sg4
+S'son_an_erminig'
+p1993
+sg6
+S"Chanson de l'hermine"
+p1994
+sg8
+I496
+sg9
+I0
+sg10
+S'Son an erminig'
+p1995
+ssI497
+(dp1996
+g3
+I384
+sg4
+S'son_anaig_rozmar'
+p1997
+sg6
+S"Chanson d'Annick Rozmar"
+p1998
+sg8
+I497
+sg9
+I0
+sg10
+S'Son Anaig Rozmar'
+p1999
+ssI498
+(dp2000
+g3
+I205
+sg4
+S'son_ar_bonomig'
+p2001
+sg6
+S'Chanson du petit bonhomme'
+p2002
+sg8
+I498
+sg9
+I0
+sg10
+S'Son ar bonomig (1)'
+p2003
+ssI499
+(dp2004
+g3
+I309
+sg4
+S'son_ar_bonomig_variante'
+p2005
+sg6
+S'Chanson du petit bonhomme'
+p2006
+sg8
+I499
+sg9
+I0
+sg10
+S'Son ar bonomig (2)'
+p2007
+ssI500
+(dp2008
+g3
+I380
+sg4
+S'son_ar_bonomig_variante2'
+p2009
+sg6
+S'Chanson du petit bonhomme'
+p2010
+sg8
+I500
+sg9
+I0
+sg10
+S'Son ar bonomig (3)'
+p2011
+ssI501
+(dp2012
+g3
+I277
+sg4
+S'son_ar_c_hafe'
+p2013
+sg6
+S'La chanson du caf\xe9'
+p2014
+sg8
+I501
+sg9
+I0
+sg10
+S"Son ar c'hafe"
+p2015
+ssI502
+(dp2016
+g3
+I317
+sg4
+S'son_ar_c_hilhog'
+p2017
+sg6
+S'La chanson du coq'
+p2018
+sg8
+I502
+sg9
+I0
+sg10
+S"Son ar c'hilhog"
+p2019
+ssI503
+(dp2020
+g3
+I254
+sg4
+S'son_ar_gemenerez'
+p2021
+sg6
+S'Chanson de la couturi\xe8re'
+p2022
+sg8
+I503
+sg9
+I0
+sg10
+S'Son ar gemenerez'
+p2023
+ssI504
+(dp2024
+g3
+I243
+sg4
+S'son_ar_mitijen_paour'
+p2025
+sg6
+S'Chanson des pauvres servantes'
+p2026
+sg8
+I504
+sg9
+I0
+sg10
+S'Son ar mitijen paour'
+p2027
+ssI505
+(dp2028
+g3
+I389
+sg4
+S'son_ar_peder_vestrez'
+p2029
+sg6
+S'Chanson des quatre bien-aim\xe9es'
+p2030
+sg8
+I505
+sg9
+I0
+sg10
+S'Son ar peder vestrez'
+p2031
+ssI506
+(dp2032
+g3
+I205
+sg4
+S'son_ar_stang'
+p2033
+sg6
+S"Chanson de l'\xe9tang"
+p2034
+sg8
+I506
+sg9
+I0
+sg10
+S'Son ar stang'
+p2035
+ssI507
+(dp2036
+g3
+I278
+sg4
+S'son_sistr'
+p2037
+sg6
+S'La chanson du cidre'
+p2038
+sg8
+I507
+sg9
+I0
+sg10
+S'Son ar sistr'
+p2039
+ssI508
+(dp2040
+g3
+I320
+sg4
+S'son_fest_an_arvel'
+p2041
+sg6
+S"Chants de noces - 5. Chanson de la F\xeate de l'Armoire"
+p2042
+sg8
+I508
+sg9
+I0
+sg10
+S'Son Fest an Arvel'
+p2043
+ssI509
+(dp2044
+g3
+I378
+sg4
+S'son_fest_miz_even'
+p2045
+sg6
+S'Chant de la f\xeate de juin'
+p2046
+sg8
+I509
+sg9
+I0
+sg10
+S'Son fest miz Even'
+p2047
+ssI510
+(dp2048
+g3
+I286
+sg4
+S'son_ur_soner'
+p2049
+sg6
+S"Chanson d'un joueur de biniou"
+p2050
+sg8
+I510
+sg9
+I0
+sg10
+S'Son ur soner'
+p2051
+ssI511
+(dp2052
+g3
+I309
+sg4
+S'son_yannig'
+p2053
+sg6
+S"Chanson de Yannig - L'innocent"
+p2054
+sg8
+I511
+sg9
+I0
+sg10
+S'Son Yannig - Ar paotr goge'
+p2055
+ssI512
+(dp2056
+g3
+I264
+sg4
+S'sonig'
+p2057
+sg6
+S'Chansonnette'
+p2058
+sg8
+I512
+sg9
+I0
+sg10
+S'Sonig'
+p2059
+ssI513
+(dp2060
+g3
+I360
+sg4
+S'sonig_23'
+p2061
+sg6
+S'Chansonnette'
+p2062
+sg8
+I513
+sg9
+I0
+sg10
+S'Sonig (23)'
+p2063
+ssI514
+(dp2064
+g3
+I244
+sg4
+S'sonig_25'
+p2065
+sg6
+S'Chansonnette'
+p2066
+sg8
+I514
+sg9
+I0
+sg10
+S'Sonig (25)'
+p2067
+ssI515
+(dp2068
+g3
+I343
+sg4
+S'sonig_41'
+p2069
+sg6
+S'Chansonnette'
+p2070
+sg8
+I515
+sg9
+I0
+sg10
+S'Sonig (41)'
+p2071
+ssI516
+(dp2072
+g3
+I251
+sg4
+S'sonig_a_garantez'
+p2073
+sg6
+S"Chansonnette d'amour"
+p2074
+sg8
+I516
+sg9
+I0
+sg10
+S'Sonig a garantez'
+p2075
+ssI517
+(dp2076
+g3
+I209
+sg4
+S'sonig_bihan_da_c_hoarzhin'
+p2077
+sg6
+S'Petite chanson comique'
+p2078
+sg8
+I517
+sg9
+I0
+sg10
+S"Sonig bihan da c'hoarzhin"
+p2079
+ssI518
+(dp2080
+g3
+I396
+sg4
+S'sonig_da_c_hoarzhin15'
+p2081
+sg6
+S'Petite chanson comique'
+p2082
+sg8
+I518
+sg9
+I0
+sg10
+S"Sonig da c'hoarzhin (15)"
+p2083
+ssI519
+(dp2084
+g3
+I350
+sg4
+S'sonig_da_c_hoarzhin16'
+p2085
+sg6
+S'Petite chanson comique'
+p2086
+sg8
+I519
+sg9
+I0
+sg10
+S"Sonig da c'hoarzhin (16)"
+p2087
+ssI520
+(dp2088
+g3
+I397
+sg4
+S'sonig_kavell_1'
+p2089
+sg6
+S'Berceuse (1)'
+p2090
+sg8
+I520
+sg9
+I2
+sg10
+S'Sonig Kavell (1)'
+p2091
+ssI521
+(dp2092
+g3
+I326
+sg4
+S'sonig_kavell_2'
+p2093
+sg6
+S'Berceuse (2)'
+p2094
+sg8
+I521
+sg9
+I2
+sg10
+S'Sonig Kavell (2)'
+p2095
+ssI522
+(dp2096
+g3
+I385
+sg4
+S'sonig_kavell_3'
+p2097
+sg6
+S'Berceuse (3)'
+p2098
+sg8
+I522
+sg9
+I2
+sg10
+S'Sonig Kavell (3)'
+p2099
+ssI523
+(dp2100
+g3
+I217
+sg4
+S'sonig_kavell_4'
+p2101
+sg6
+S'Berceuse (4)'
+p2102
+sg8
+I523
+sg9
+I2
+sg10
+S'Sonig Kavell (4)'
+p2103
+ssI524
+(dp2104
+g3
+I227
+sg4
+S'sonig_kavell_5'
+p2105
+sg6
+S'Berceuse (5)'
+p2106
+sg8
+I524
+sg9
+I2
+sg10
+S'Sonig Kavell (5)'
+p2107
+ssI525
+(dp2108
+g3
+I278
+sg4
+S'sonit_bombard_sonit_biniou'
+p2109
+sg6
+S'Sonnez bombarde, sonnez biniou !'
+p2110
+sg8
+I525
+sg9
+I0
+sg10
+S'Sonit bombard, sonit binio\xf9 !'
+p2111
+ssI526
+(dp2112
+g3
+I334
+sg4
+S'sonj_ma_yaouankiz_1'
+p2113
+sg6
+S'Souvenir de ma jeunesse'
+p2114
+sg8
+I526
+sg9
+I0
+sg10
+S'So\xf1j ma yaouankiz (1)'
+p2115
+ssI527
+(dp2116
+g3
+I385
+sg4
+S'sonj_ma_yaouankiz_2'
+p2117
+sg6
+S'Souvenir de ma jeunesse'
+p2118
+sg8
+I527
+sg9
+I0
+sg10
+S'So\xf1j ma yaouankiz (2)'
+p2119
+ssI528
+(dp2120
+g3
+I234
+sg4
+S'sonjennou_un_den_barnet_d_ar_groug'
+p2121
+sg6
+S"R\xe9flexions d'un condamn\xe9 \xe0 la pendaison"
+p2122
+sg8
+I528
+sg9
+I1
+sg10
+S"So\xf1jenno\xf9 un den barnet d'ar groug"
+p2123
+ssI529
+(dp2124
+g3
+I326
+sg4
+S'sonnen_aral_de_gerhet'
+p2125
+sg6
+S'Autre chanson de marche'
+p2126
+sg8
+I529
+sg9
+I0
+sg10
+S'So\xf1nen aral de gerhet'
+p2127
+ssI530
+(dp2128
+g3
+I336
+sg4
+S'sonnen_eit_kerhet'
+p2129
+sg6
+S'Chanson de marche'
+p2130
+sg8
+I530
+sg9
+I0
+sg10
+S'So\xf1nen eit kerhet'
+p2131
+ssI531
+(dp2132
+g3
+I395
+sg4
+S'sonnen_er_gakoused'
+p2133
+sg6
+S'La chanson des l\xe9preux'
+p2134
+sg8
+I531
+sg9
+I1
+sg10
+S'So\xf1nen er gakoused'
+p2135
+ssI532
+(dp2136
+g3
+I234
+sg4
+S'soubenn_al_laezh'
+p2137
+sg6
+S'La soupe au lait'
+p2138
+sg8
+I532
+sg9
+I0
+sg10
+S'Soubenn al laezh'
+p2139
+ssI533
+(dp2140
+g3
+I371
+sg4
+S'soudarded_a_mem_bro'
+p2141
+sg6
+S'Soldats de mon pays'
+p2142
+sg8
+I533
+sg9
+I0
+sg10
+S'Soudarded a mem bro'
+p2143
+ssI534
+(dp2144
+g3
+I377
+sg4
+S'stourm_an_tregont'
+p2145
+sg6
+S'Le Combat des Trente'
+p2146
+sg8
+I534
+sg9
+I1
+sg10
+S'Stourm an Tregont'
+p2147
+ssI535
+(dp2148
+g3
+I243
+sg4
+S'teir_plac_h_yaouank_a_landevan'
+p2149
+sg6
+S'Trois jeunes filles de Landevan'
+p2150
+sg8
+I535
+sg9
+I0
+sg10
+S"Teir plac'h yaouank a Landevan"
+p2151
+ssI536
+(dp2152
+g3
+I331
+sg4
+S'tenval_an_noz'
+p2153
+sg6
+S'La nuit est sombre'
+p2154
+sg8
+I536
+sg9
+I0
+sg10
+S'Te\xf1val an noz'
+p2155
+ssI537
+(dp2156
+g3
+I234
+sg4
+S'ti_eliz_iza'
+p2157
+sg6
+S"La maison d'Eliz Iza"
+p2158
+sg8
+I537
+sg9
+I1
+sg10
+S'Ti Eliz Iza'
+p2159
+ssI538
+(dp2160
+g3
+I202
+sg4
+S'toutouig'
+p2161
+sg6
+S'Toutouig'
+p2162
+sg8
+I538
+sg9
+I2
+sg10
+S'Toutouig'
+p2163
+ssI539
+(dp2164
+g3
+I304
+sg4
+S'trogadec'
+p2165
+sg6
+S'Trogadec'
+p2166
+sg8
+I539
+sg9
+I1
+sg10
+S'Trogadec'
+p2167
+ssI540
+(dp2168
+g3
+I315
+sg4
+S'troad_an_eginane'
+p2169
+sg6
+S"La tourn\xe9e de l'Aguilaneuf"
+p2170
+sg8
+I540
+sg9
+I0
+sg10
+S'Troad an Eginane'
+p2171
+ssI541
+(dp2172
+g3
+I312
+sg4
+S'tuchant_e_erruio_an_hanv'
+p2173
+sg6
+S"Bient\xf4t arrivera l'\xe9t\xe9"
+p2174
+sg8
+I541
+sg9
+I0
+sg10
+S'Tuchant e erruio an ha\xf1v'
+p2175
+ssI542
+(dp2176
+g3
+I330
+sg4
+S'turlututu'
+p2177
+sg6
+S'Turlututu'
+p2178
+sg8
+I542
+sg9
+I0
+sg10
+S'Turlututu'
+p2179
+ssI543
+(dp2180
+g3
+I351
+sg4
+S'ul_labous_gwenn'
+p2181
+sg6
+S'Un oiseau blanc'
+p2182
+sg8
+I543
+sg9
+I0
+sg10
+S'Ul labous gwenn'
+p2183
+ssI544
+(dp2184
+g3
+I263
+sg4
+S'un_de_e_oen_me_e_vale'
+p2185
+sg6
+S'Un jour que je me promenais'
+p2186
+sg8
+I544
+sg9
+I0
+sg10
+S'Un d\xe9 e oen-me e vale'
+p2187
+ssI545
+(dp2188
+g3
+I350
+sg4
+S'un_tammig_em_es_kalon_dies_1'
+p2189
+sg6
+S"J'ai le coeur un peu mal \xe0 l'aise (1)"
+p2190
+sg8
+I545
+sg9
+I0
+sg10
+S'Un tammig em es kalon di\xe9s (1)'
+p2191
+ssI546
+(dp2192
+g3
+I331
+sg4
+S'un_tammig_em_es_kalon_dies_2'
+p2193
+sg6
+S"J'ai le coeur un peu mal \xe0 l'aise (2)"
+p2194
+sg8
+I546
+sg9
+I0
+sg10
+S'Un tammig em es kalon di\xe9s (2)'
+p2195
+ssI547
+(dp2196
+g3
+I218
+sg4
+S'un_tiig_war_ar_maez'
+p2197
+sg6
+S'Une maisonnette \xe0 la campagne'
+p2198
+sg8
+I547
+sg9
+I2
+sg10
+S'Un tiig war ar maez'
+p2199
+ssI548
+(dp2200
+g3
+I235
+sg4
+S'ur_gentel_vat'
+p2201
+sg6
+S'Une bonne le\xe7on'
+p2202
+sg8
+I548
+sg9
+I1
+sg10
+S'Ur gentel vat'
+p2203
+ssI549
+(dp2204
+g3
+I294
+sg4
+S'ur_paotr_yaouank_d_e_zousig'
+p2205
+sg6
+S'Un jeune homme \xe0 sa douce'
+p2206
+sg8
+I549
+sg9
+I0
+sg10
+S"Ur paotr yaouank d'e zousig"
+p2207
+ssI550
+(dp2208
+g3
+I243
+sg4
+S'ur_plac_h_diaes_da_zimin'
+p2209
+sg6
+S'Une fille difficile \xe0 marier'
+p2210
+sg8
+I550
+sg9
+I0
+sg10
+S"Ur plac'h diaes da zim'i\xf1"
+p2211
+ssI551
+(dp2212
+g3
+I231
+sg4
+S'ur_plac_h_yaouank_o_vervel'
+p2213
+sg6
+S'Une jeune fille qui meurt'
+p2214
+sg8
+I551
+sg9
+I0
+sg10
+S"Ur plac'h yaouank o vervel"
+p2215
+ssI552
+(dp2216
+g3
+I289
+sg4
+S'ur_son_kernev'
+p2217
+sg6
+S'Une chanson de Cornouaille'
+p2218
+sg8
+I552
+sg9
+I0
+sg10
+S'Ur son Kernev'
+p2219
+ssI553
+(dp2220
+g3
+I234
+sg4
+S'ur_verc_h_en_em_gavet_diaes'
+p2221
+sg6
+S'La fille embarass\xe9e'
+p2222
+sg8
+I553
+sg9
+I0
+sg10
+S"Ur verc'h en em gavet diaes"
+p2223
+ssI554
+(dp2224
+g3
+I251
+sg4
+S'va_c_hi_ha_va_c_hazh'
+p2225
+sg6
+S'Mon chien et mon chat'
+p2226
+sg8
+I554
+sg9
+I2
+sg10
+S"Va c'hi ha va c'hazh"
+p2227
+ssI555
+(dp2228
+g3
+I349
+sg4
+S'va_dousig_koant'
+p2229
+sg6
+S'Ma belle amie'
+p2230
+sg8
+I555
+sg9
+I0
+sg10
+S'Va dousig koant (1)'
+p2231
+ssI556
+(dp2232
+g3
+I328
+sg4
+S'va_dousig_koant_2'
+p2233
+sg6
+S'Ma belle amie'
+p2234
+sg8
+I556
+sg9
+I0
+sg10
+S'Va dousig koant (2) <i class="danse">An dro</i>'
+p2235
+ssI557
+(dp2236
+g3
+I383
+sg4
+S'va_labousig_gwenn'
+p2237
+sg6
+S'Mon petit oiseau blanc'
+p2238
+sg8
+I557
+sg9
+I2
+sg10
+S'Va labousig gwenn'
+p2239
+ssI558
+(dp2240
+g3
+I252
+sg4
+S'va_merc_h_janed_mar_timezit'
+p2241
+sg6
+S'Ma fille Jeannette, si vous vous mariez...'
+p2242
+sg8
+I558
+sg9
+I0
+sg10
+S"Va merc'h Janed, mar timezit..."
+p2243
+ssI559
+(dp2244
+g3
+I378
+sg4
+S'va_mestrezig_a_zo_fachet'
+p2245
+sg6
+S'Ma petite amie est f\xe2ch\xe9e'
+p2246
+sg8
+I559
+sg9
+I0
+sg10
+S'Va mestrezig a zo fachet <i class="danse">Bal ou Jabadao d\'Hanvec</i>'
+p2247
+ssI560
+(dp2248
+g3
+I231
+sg4
+S'va_zi_bihan'
+p2249
+sg6
+S'Ma petite maison'
+p2250
+sg8
+I560
+sg9
+I0
+sg10
+S'Va zi bihan'
+p2251
+ssI561
+(dp2252
+g3
+I363
+sg4
+S'war_an_hent'
+p2253
+sg6
+S'Sur la route'
+p2254
+sg8
+I561
+sg9
+I0
+sg10
+S'War an hent'
+p2255
+ssI562
+(dp2256
+g3
+I331
+sg4
+S'war_bont'
+p2257
+sg6
+S'Sur le pont de Nantes'
+p2258
+sg8
+I562
+sg9
+I1
+sg10
+S'War bont an Naoned'
+p2259
+ssI563
+(dp2260
+g3
+I248
+sg4
+S'war_bont_an_naoned2'
+p2261
+sg6
+S'Sur le pont de Nantes (2)'
+p2262
+sg8
+I563
+sg9
+I0
+sg10
+S'War bont an Naoned (2)'
+p2263
+ssI564
+(dp2264
+g3
+I228
+sg4
+S'war_bont_an_naoned3'
+p2265
+sg6
+S'Sur le pont de Nantes (3)'
+p2266
+sg8
+I564
+sg9
+I0
+sg10
+S'War bont an Naoned (3)'
+p2267
+ssI565
+(dp2268
+g3
+I356
+sg4
+S'yannig_an_difouper_neiziou'
+p2269
+sg6
+S'Yannig le d\xe9nicheur'
+p2270
+sg8
+I565
+sg9
+I2
+sg10
+S'Yannig an difouper neizhio\xf9'
+p2271
+ssI566
+(dp2272
+g3
+I337
+sg4
+S'yannig_skolan'
+p2273
+sg6
+S'Yannick Skolan'
+p2274
+sg8
+I566
+sg9
+I1
+sg10
+S'Yannig Skolan'
+p2275
+ss.(dp1
+.
